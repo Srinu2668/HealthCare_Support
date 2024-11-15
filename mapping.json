@@ -1,0 +1,4330 @@
+[
+    {
+      "sNo": 0,
+      "disease": "(Vertigo) Paroymsal Positional Vertigo"
+    },
+    {
+      "sNo": 1,
+      "disease": "Abdominal Aortic Aneurysm"
+    },
+    {
+      "sNo": 2,
+      "disease": "Acanthosis Nigricans"
+    },
+    {
+      "sNo": 3,
+      "disease": "Achalasia"
+    },
+    {
+      "sNo": 4,
+      "disease": "Achilles Tendinitis"
+    },
+    {
+      "sNo": 5,
+      "disease": "Achilles Tendon Rupture"
+    },
+    {
+      "sNo": 6,
+      "disease": "Acl Injury"
+    },
+    {
+      "sNo": 7,
+      "disease": "Acne"
+    },
+    {
+      "sNo": 8,
+      "disease": "Acoustic Neuroma"
+    },
+    {
+      "sNo": 9,
+      "disease": "Acromegaly"
+    },
+    {
+      "sNo": 10,
+      "disease": "Actinic Keratosis"
+    },
+    {
+      "sNo": 11,
+      "disease": "Acute Coronary Syndrome"
+    },
+    {
+      "sNo": 12,
+      "disease": "Acute Flaccid Myelitis"
+    },
+    {
+      "sNo": 13,
+      "disease": "Acute Liver Failure"
+    },
+    {
+      "sNo": 14,
+      "disease": "Acute Lymphocytic Leukemia"
+    },
+    {
+      "sNo": 15,
+      "disease": "Acute Myelogenous Leukemia"
+    },
+    {
+      "sNo": 16,
+      "disease": "Acute Sinusitis"
+    },
+    {
+      "sNo": 17,
+      "disease": "Addisons Disease"
+    },
+    {
+      "sNo": 18,
+      "disease": "Adenomyosis"
+    },
+    {
+      "sNo": 19,
+      "disease": "Adhd"
+    },
+    {
+      "sNo": 20,
+      "disease": "Adjustment Disorders"
+    },
+    {
+      "sNo": 21,
+      "disease": "Adrenal Cancer"
+    },
+    {
+      "sNo": 22,
+      "disease": "Adult Adhd"
+    },
+    {
+      "sNo": 23,
+      "disease": "Adult Congenital Heart Disease"
+    },
+    {
+      "sNo": 24,
+      "disease": "Adult Stills Disease"
+    },
+    {
+      "sNo": 25,
+      "disease": "Age Spots"
+    },
+    {
+      "sNo": 26,
+      "disease": "Agoraphobia"
+    },
+    {
+      "sNo": 27,
+      "disease": "Aids"
+    },
+    {
+      "sNo": 28,
+      "disease": "Airplane Ear"
+    },
+    {
+      "sNo": 29,
+      "disease": "Albinism"
+    },
+    {
+      "sNo": 30,
+      "disease": "Alcohol Intolerance"
+    },
+    {
+      "sNo": 31,
+      "disease": "Alcohol Poisoning"
+    },
+    {
+      "sNo": 32,
+      "disease": "Alcohol Use Disorder"
+    },
+    {
+      "sNo": 33,
+      "disease": "Alcoholic Hepatitis"
+    },
+    {
+      "sNo": 34,
+      "disease": "Allergies"
+    },
+    {
+      "sNo": 35,
+      "disease": "Allergy"
+    },
+    {
+      "sNo": 36,
+      "disease": "Alpha Gal Syndrome"
+    },
+    {
+      "sNo": 37,
+      "disease": "Alzheimers Disease"
+    },
+    {
+      "sNo": 38,
+      "disease": "Ambiguous Genitalia"
+    },
+    {
+        "sNo": 39,
+        "disease": "Ameloblastoma"
+    },
+    {
+        "sNo": 40,
+        "disease": "Amenorrhea"
+    },
+    {
+        "sNo": 41,
+        "disease": "Amnesia"
+    },
+    {
+        "sNo": 42,
+        "disease": "Ampullary Cancer"
+    },
+    {
+        "sNo": 43,
+        "disease": "Amyloidosis"
+    },
+    {
+        "sNo": 44,
+        "disease": "Amyotrophic Lateral Sclerosis"
+    },
+    {
+        "sNo": 45,
+        "disease": "Anal Cancer"
+    },
+    {
+        "sNo": 46,
+        "disease": "Anal Fissure"
+    },
+    {
+        "sNo": 47,
+        "disease": "Anal Fistula"
+    },
+    {
+        "sNo": 48,
+        "disease": "Anal Itching"
+    },
+    {
+        "sNo": 49,
+        "disease": "Anaphylaxis"
+    },
+    {
+        "sNo": 50,
+        "disease": "Anemia"
+    },
+    {
+        "sNo": 51,
+        "disease": "Angelman Syndrome"
+    },
+    {
+        "sNo": 52,
+        "disease": "Angina"
+    },
+    {
+        "sNo": 53,
+        "disease": "Angiosarcoma"
+    },
+    {
+        "sNo": 54,
+        "disease": "Ankylosing Spondylitis"
+    },
+    {
+        "sNo": 55,
+        "disease": "Anorexia Nervosa"
+    },
+    {
+        "sNo": 56,
+        "disease": "Anorgasmia"
+    },
+    {
+        "sNo": 57,
+        "disease": "Anthrax"
+    },
+    {
+        "sNo": 58,
+        "disease": "Antibiotic Associated Diarrhea"
+    },
+    {
+        "sNo": 59,
+        "disease": "Antiphospholipid Syndrome"
+    },
+    {
+        "sNo": 60,
+        "disease": "Antisocial Personality Disorder"
+    },
+    {
+        "sNo": 61,
+        "disease": "Anxiety"
+    },
+    {
+        "sNo": 62,
+        "disease": "Aortic Dissection"
+    },
+    {
+        "sNo": 63,
+        "disease": "Aortic Stenosis"
+    },
+    {
+        "sNo": 64,
+        "disease": "Aortic Valve Disease"
+    },
+    {
+        "sNo": 65,
+        "disease": "Aortic Valve Regurgitation"
+    },
+    {
+        "sNo": 66,
+        "disease": "Aphasia"
+    },
+    {
+        "sNo": 67,
+        "disease": "Aplastic Anemia"
+    },
+    {
+        "sNo": 68,
+        "disease": "Appendicitis"
+    },
+    {
+        "sNo": 69,
+        "disease": "Arteriosclerosis Atherosclerosis"
+    },
+    {
+        "sNo": 70,
+        "disease": "Arteriovenous Fistula"
+    },
+    {
+        "sNo": 71,
+        "disease": "Arteriovenous Malformation"
+    },
+    {
+        "sNo": 72,
+        "disease": "Arthritis"
+    },
+    {
+        "sNo": 73,
+        "disease": "Asbestosis"
+    },
+    {
+        "sNo": 74,
+        "disease": "Ascariasis"
+    },
+    {
+        "sNo": 75,
+        "disease": "Aspergillosis"
+    },
+    {
+        "sNo": 76,
+        "disease": "Asthma"
+    },
+    {
+        "sNo": 77,
+        "disease": "Asthma Attack"
+    },
+    {
+        "sNo": 78,
+        "disease": "Astigmatism"
+    },
+    {
+        "sNo": 79,
+        "disease": "Ataxia"
+    },
+    {
+        "sNo": 80,
+        "disease": "Atelectasis"
+    },
+    {
+        "sNo": 81,
+        "disease": "Athletes Foot"
+    },
+    {
+        "sNo": 82,
+        "disease": "Atopic Dermatitis Eczema"
+    },
+    {
+        "sNo": 83,
+        "disease": "Atrial Fibrillation"
+    },
+    {
+        "sNo": 84,
+        "disease": "Atrial Septal Defect"
+    },
+    {
+        "sNo": 85,
+        "disease": "Atrioventricular Canal Defect"
+    },
+    {
+        "sNo": 86,
+        "disease": "Atypical Hyperplasia"
+    },
+    {
+        "sNo": 87,
+        "disease": "Autism Spectrum Disorder"
+    },
+    {
+        "sNo": 88,
+        "disease": "Autoimmune Hepatitis"
+    },
+    {
+        "sNo": 89,
+        "disease": "Autoimmune Pancreatitis"
+    },
+    {
+        "sNo": 90,
+        "disease": "Autonomic Neuropathy"
+    },
+    {
+        "sNo": 91,
+        "disease": "Avascular Necrosis"
+    },
+    {
+        "sNo": 92,
+        "disease": "Baby Acne"
+    },
+    {
+        "sNo": 93,
+        "disease": "Back Pain"
+    },
+    {
+        "sNo": 94,
+        "disease": "Bacterial Vaginosis"
+    },
+    {
+        "sNo": 95,
+        "disease": "Bad Breath"
+    },
+    {
+        "sNo": 96,
+        "disease": "Bags Under Eyes"
+    },
+    {
+        "sNo": 97,
+        "disease": "Bakers Cyst"
+    },
+    {
+        "sNo": 98,
+        "disease": "Balance Problems"
+    },
+    {
+        "sNo": 99,
+        "disease": "Barretts Esophagus"
+    },
+    {
+        "sNo": 100,
+        "disease": "Bartholin Cyst"
+    },
+    {
+        "sNo": 101,
+        "disease": "Basal Cell Carcinoma"
+    },
+    {
+        "sNo": 102,
+        "disease": "Bed Sores"
+    },
+    {
+        "sNo": 103,
+        "disease": "Bed Wetting"
+    },
+    {
+        "sNo": 104,
+        "disease": "Bedbugs"
+    },
+    {
+        "sNo": 105,
+        "disease": "Bee Stings"
+    },
+    {
+        "sNo": 106,
+        "disease": "Behcets Disease"
+    },
+    {
+        "sNo": 107,
+        "disease": "Bells Palsy"
+    },
+    {
+        "sNo": 108,
+        "disease": "Benign Prostatic Hyperplasia"
+    },
+    {
+        "sNo": 109,
+        "disease": "Bile Reflux"
+    },
+    {
+        "sNo": 110,
+        "disease": "Binge Eating Disorder"
+    },
+    {
+        "sNo": 111,
+        "disease": "Bipolar Disorder"
+    },
+    {
+        "sNo": 112,
+        "disease": "Black Hairy Tongue"
+    },
+    {
+        "sNo": 113,
+        "disease": "Bladder Cancer"
+    },
+    {
+        "sNo": 114,
+        "disease": "Bladder Exstrophy"
+    },
+    {
+        "sNo": 115,
+        "disease": "Bladder Stones"
+    },
+    {
+        "sNo": 116,
+        "disease": "Blastocystis Hominis Infection"
+    },
+    {
+        "sNo": 117,
+        "disease": "Blepharitis"
+    },
+    {
+        "sNo": 118,
+        "disease": "Blocked Tear Duct"
+    },
+    {
+        "sNo": 119,
+        "disease": "Blood In Urine"
+    },
+    {
+        "sNo": 120,
+        "disease": "Body Dysmorphic Disorder"
+    },
+    {
+        "sNo": 121,
+        "disease": "Body Lice"
+    },
+    {
+        "sNo": 122,
+        "disease": "Boils And Carbuncles"
+    },
+    {
+        "sNo": 123,
+        "disease": "Bone And Joint Infections"
+    },
+    {
+        "sNo": 124,
+        "disease": "Bone Cancer"
+    },
+    {
+        "sNo": 125,
+        "disease": "Bone Metastasis"
+    },
+    {
+        "sNo": 126,
+        "disease": "Bone Spurs"
+    },
+    {
+        "sNo": 127,
+        "disease": "Borderline Personality Disorder"
+    },
+    {
+        "sNo": 128,
+        "disease": "Botulism"
+    },
+    {
+        "sNo": 129,
+        "disease": "Brachial Plexus Injury"
+    },
+    {
+        "sNo": 130,
+        "disease": "Bradycardia"
+    },
+    {
+        "sNo": 131,
+        "disease": "Brain Aneurysm"
+    },
+    {
+        "sNo": 132,
+        "disease": "Brain Avm"
+    },
+    {
+        "sNo": 133,
+        "disease": "Brain Metastases"
+    },
+    {
+        "sNo": 134,
+        "disease": "Brain Tumor"
+    },
+    {
+        "sNo": 135,
+        "disease": "Breast Cancer"
+    },
+    {
+        "sNo": 136,
+        "disease": "Breast Cysts"
+    },
+    {
+        "sNo": 137,
+        "disease": "Breast Pain"
+    },
+    {
+        "sNo": 138,
+        "disease": "Broken Ankle"
+    },
+    {
+        "sNo": 139,
+        "disease": "Broken Arm"
+    },
+    {
+        "sNo": 140,
+        "disease": "Broken Collarbone"
+    },
+    {
+        "sNo": 141,
+        "disease": "Broken Foot"
+    },
+    {
+        "sNo": 142,
+        "disease": "Broken Hand"
+    },
+    {
+        "sNo": 143,
+        "disease": "Broken Heart Syndrome"
+    },
+    {
+        "sNo": 144,
+        "disease": "Broken Leg"
+    },
+    {
+        "sNo": 145,
+        "disease": "Broken Nose"
+    },
+    {
+        "sNo": 146,
+        "disease": "Broken Ribs"
+    },
+    {
+        "sNo": 147,
+        "disease": "Broken Toe"
+    },
+    {
+        "sNo": 148,
+        "disease": "Broken Wrist"
+    },
+    {
+        "sNo": 149,
+        "disease": "Bronchial Asthma"
+    },
+    {
+        "sNo": 150,
+        "disease": "Bronchiolitis"
+    },
+    {
+        "sNo": 151,
+        "disease": "Bronchitis"
+    },
+    {
+        "sNo": 152,
+        "disease": "Brucellosis"
+    },
+    {
+        "sNo": 153,
+        "disease": "Brugada Syndrome"
+    },
+    {
+        "sNo": 154,
+        "disease": "Bruxism"
+    },
+    {
+        "sNo": 155,
+        "disease": "Buergers Disease"
+    },
+    {
+        "sNo": 156,
+        "disease": "Bulimia"
+    },
+    {
+        "sNo": 157,
+        "disease": "Bullous Pemphigoid"
+    },
+    {
+        "sNo": 158,
+        "disease": "Bundle Branch Block"
+    },
+    {
+        "sNo": 159,
+        "disease": "Bunions"
+    },
+    {
+        "sNo": 160,
+        "disease": "Burning Mouth Syndrome"
+    },
+    {
+        "sNo": 161,
+        "disease": "Burns"
+    },
+    {
+        "sNo": 162,
+        "disease": "Bursitis"
+    },
+    {
+        "sNo": 163,
+        "disease": "C Difficile"
+    },
+    {
+        "sNo": 164,
+        "disease": "Calciphylaxis"
+    },
+    {
+        "sNo": 165,
+        "disease": "Cancer"
+    },
+    {
+        "sNo": 166,
+        "disease": "Canker Sore"
+    },
+    {
+        "sNo": 167,
+        "disease": "Carbon Monoxide"
+    },
+    {
+        "sNo": 168,
+        "disease": "Carcinoid Syndrome"
+    },
+    {
+        "sNo": 169,
+        "disease": "Carcinoid Tumors"
+    },
+    {
+        "sNo": 170,
+        "disease": "Carcinoma Unknown Primary"
+    },
+    {
+        "sNo": 171,
+        "disease": "Cardiogenic Shock"
+    },
+    {
+        "sNo": 172,
+        "disease": "Cardiomyopathy"
+    },
+    {
+        "sNo": 173,
+        "disease": "Carotid Artery Disease"
+    },
+    {
+        "sNo": 174,
+        "disease": "Carpal Tunnel Syndrome"
+    },
+    {
+        "sNo": 175,
+        "disease": "Castleman Disease"
+    },
+    {
+        "sNo": 176,
+        "disease": "Cataracts"
+    },
+    {
+        "sNo": 177,
+        "disease": "Cavernous Malformations"
+    },
+    {
+        "sNo": 178,
+        "disease": "Cavities"
+    },
+    {
+        "sNo": 179,
+        "disease": "Celiac Disease"
+    },
+    {
+        "sNo": 180,
+        "disease": "Cellulite"
+    },
+    {
+        "sNo": 181,
+        "disease": "Cellulitis"
+    },
+    {
+        "sNo": 182,
+        "disease": "Central Sleep Apnea"
+    },
+    {
+        "sNo": 183,
+        "disease": "Cerebral Palsy"
+    },
+    {
+        "sNo": 184,
+        "disease": "Cervical Cancer"
+    },
+    {
+        "sNo": 185,
+        "disease": "Cervical Dystonia"
+    },
+    {
+        "sNo": 186,
+        "disease": "Cervical Spondylosis"
+    },
+    {
+        "sNo": 187,
+        "disease": "Cervicitis"
+    },
+    {
+        "sNo": 188,
+        "disease": "Chagas Disease"
+    },
+    {
+        "sNo": 189,
+        "disease": "Charcot Marie Tooth Disease"
+    },
+    {
+        "sNo": 190,
+        "disease": "Chemo Brain"
+    },
+    {
+        "sNo": 191,
+        "disease": "Chest Pain"
+    },
+    {
+        "sNo": 192,
+        "disease": "Chiari Malformation"
+    },
+    {
+        "sNo": 193,
+        "disease": "Chicken Pox"
+    },
+    {
+        "sNo": 194,
+        "disease": "Chickenpox"
+    },
+    {
+        "sNo": 195,
+        "disease": "Chilblains"
+    },
+    {
+        "sNo": 196,
+        "disease": "Child Abuse"
+    },
+    {
+        "sNo": 197,
+        "disease": "Childhood Apraxia Of Speech"
+    },
+    {
+        "sNo": 198,
+        "disease": "Childhood Asthma"
+    },
+    {
+        "sNo": 199,
+        "disease": "Childhood Obesity"
+    },
+    {
+        "sNo": 200,
+        "disease": "Childhood Schizophrenia"
+    },
+    {
+        "sNo": 201,
+        "disease": "Chlamydia"
+    },
+    {
+        "sNo": 202,
+        "disease": "Cholangiocarcinoma"
+    },
+    {
+        "sNo": 203,
+        "disease": "Cholecystitis"
+    },
+    {
+        "sNo": 204,
+        "disease": "Cholera"
+    },
+    {
+        "sNo": 205,
+        "disease": "Cholestasis Of Pregnancy"
+    },
+    {
+        "sNo": 206,
+        "disease": "Chondrosarcoma"
+    },
+    {
+        "sNo": 207,
+        "disease": "Chronic Cholestasis"
+    },
+    {
+        "sNo": 208,
+        "disease": "Chronic Cough"
+    },
+    {
+        "sNo": 209,
+        "disease": "Chronic Daily Headaches"
+    },
+    {
+        "sNo": 210,
+        "disease": "Chronic Exertional Compartment Syndrome"
+    },
+    {
+        "sNo": 211,
+        "disease": "Chronic Fatigue Syndrome"
+    },
+    {
+        "sNo": 212,
+        "disease": "Chronic Granulomatous Disease"
+    },
+    {
+        "sNo": 213,
+        "disease": "Chronic Hives"
+    },
+    {
+        "sNo": 214,
+        "disease": "Chronic Kidney Disease"
+    },
+    {
+        "sNo": 215,
+        "disease": "Chronic Lymphocytic Leukemia"
+    },
+    {
+        "sNo": 216,
+        "disease": "Chronic Myelogenous Leukemia"
+    },
+    {
+        "sNo": 217,
+        "disease": "Chronic Pelvic Pain"
+    },
+    {
+        "sNo": 218,
+        "disease": "Chronic Sinusitis"
+    },
+    {
+        "sNo": 219,
+        "disease": "Chronic Traumatic Encephalopathy"
+    },
+    {
+        "sNo": 220,
+        "disease": "Churg Strauss Syndrome"
+    },
+    {
+        "sNo": 221,
+        "disease": "Cirrhosis"
+    },
+    {
+        "sNo": 222,
+        "disease": "Claudication"
+    },
+    {
+        "sNo": 223,
+        "disease": "Cleft Palate"
+    },
+    {
+        "sNo": 224,
+        "disease": "Clubfoot"
+    },
+    {
+        "sNo": 225,
+        "disease": "Cluster Headache"
+    },
+    {
+        "sNo": 226,
+        "disease": "Cmv"
+    },
+    {
+        "sNo": 227,
+        "disease": "Coarctation Of The Aorta"
+    },
+    {
+        "sNo": 228,
+        "disease": "Cold Sore"
+    },
+    {
+        "sNo": 229,
+        "disease": "Cold Urticaria"
+    },
+    {
+        "sNo": 230,
+        "disease": "Colic"
+    },
+    {
+        "sNo": 231,
+        "disease": "Colon Cancer"
+    },
+    {
+        "sNo": 232,
+        "disease": "Colon Polyps"
+    },
+    {
+        "sNo": 233,
+        "disease": "Coma"
+    },
+    {
+        "sNo": 234,
+        "disease": "Common Cold"
+    },
+    {
+        "sNo": 235,
+        "disease": "Common Cold In Babies"
+    },
+    {
+        "sNo": 236,
+        "disease": "Common Variable Immunodeficiency"
+    },
+    {
+        "sNo": 237,
+        "disease": "Common Warts"
+    },
+    {
+        "sNo": 238,
+        "disease": "Complicated Grief"
+    },
+    {
+        "sNo": 239,
+        "disease": "Concussion"
+    },
+    {
+        "sNo": 240,
+        "disease": "Congenital Adrenal Hyperplasia"
+    },
+    {
+        "sNo": 241,
+        "disease": "Congenital Diaphragmatic Hernia"
+    },
+    {
+        "sNo": 242,
+        "disease": "Congenital Heart Defects Children"
+    },
+    {
+        "sNo": 243,
+        "disease": "Conjoined Twins"
+    },
+    {
+        "sNo": 244,
+        "disease": "Constipation"
+    },
+    {
+        "sNo": 245,
+        "disease": "Constipation In Children"
+    },
+    {
+        "sNo": 246,
+        "disease": "Contact Dermatitis"
+    },
+    {
+        "sNo": 247,
+        "disease": "Conversion Disorder"
+    },
+    {
+        "sNo": 248,
+        "disease": "Copd"
+    },
+    {
+        "sNo": 249,
+        "disease": "Coronary Artery Disease"
+    },
+    {
+        "sNo": 250,
+        "disease": "Corticobasal Degeneration"
+    },
+    {
+        "sNo": 251,
+        "disease": "Costochondritis"
+    },
+    {
+        "sNo": 252,
+        "disease": "Cradle Cap"
+    },
+    {
+        "sNo": 253,
+        "disease": "Craniosynostosis"
+    },
+    {
+        "sNo": 254,
+        "disease": "Creutzfeldt Jakob Disease"
+    },
+    {
+        "sNo": 255,
+        "disease": "Crohns Disease"
+    },
+    {
+        "sNo": 256,
+        "disease": "Croup"
+    },
+    {
+        "sNo": 257,
+        "disease": "Crps Complex Regional Pain Syndrome"
+    },
+    {
+        "sNo": 258,
+        "disease": "Cryoglobulinemia"
+    },
+    {
+        "sNo": 259,
+        "disease": "Csf Leak"
+    },
+    {
+        "sNo": 260,
+        "disease": "Cushing Syndrome"
+    },
+    {
+        "sNo": 261,
+        "disease": "Cutaneous T Cell Lymphoma"
+    },
+    {
+        "sNo": 262,
+        "disease": "Cyclic Vomiting Syndrome"
+    },
+    {
+        "sNo": 263,
+        "disease": "Cyclothymia"
+    },
+    {
+        "sNo": 264,
+        "disease": "Cystic Fibrosis"
+    },
+    {
+        "sNo": 265,
+        "disease": "Cystitis"
+    },
+    {
+        "sNo": 266,
+        "disease": "Cystocele"
+    },
+    {
+        "sNo": 267,
+        "disease": "Dandruff"
+    },
+    {
+        "sNo": 268,
+        "disease": "Dcis"
+    },
+    {
+        "sNo": 269,
+        "disease": "De Quervain Tenosynovitis"
+    },
+    {
+        "sNo": 270,
+        "disease": "Deep Vein Thrombosis"
+    },
+    {
+        "sNo": 271,
+        "disease": "Dehydration"
+    },
+    {
+        "sNo": 272,
+        "disease": "Delayed Ejaculation"
+    },
+    {
+        "sNo": 273,
+        "disease": "Delirium"
+    },
+    {
+        "sNo": 274,
+        "disease": "Dementia"
+    },
+    {
+        "sNo": 275,
+        "disease": "Dengue"
+    },
+    {
+        "sNo": 276,
+        "disease": "Dengue Fever"
+    },
+    {
+        "sNo": 277,
+        "disease": "Depersonalization Derealization Disorder"
+    },
+    {
+        "sNo": 278,
+        "disease": "Depression"
+    },
+    {
+        "sNo": 279,
+        "disease": "Dermatitis Eczema"
+    },
+    {
+        "sNo": 280,
+        "disease": "Dermatographia"
+    },
+    {
+        "sNo": 281,
+        "disease": "Dermatomyositis"
+    },
+    {
+        "sNo": 282,
+        "disease": "Desmoid Tumors"
+    },
+    {
+        "sNo": 283,
+        "disease": "Deviated Septum"
+    },
+    {
+        "sNo": 284,
+        "disease": "Diabetes"
+    },
+    {
+        "sNo": 285,
+        "disease": "Diabetes "
+    },
+    {
+        "sNo": 286,
+        "disease": "Diabetes Insipidus"
+    },
+    {
+        "sNo": 287,
+        "disease": "Diabetic Coma"
+    },
+    {
+        "sNo": 288,
+        "disease": "Diabetic Hypoglycemia"
+    },
+    {
+        "sNo": 289,
+        "disease": "Diabetic Ketoacidosis"
+    },
+    {
+        "sNo": 290,
+        "disease": "Diabetic Nephropathy"
+    },
+    {
+        "sNo": 291,
+        "disease": "Diabetic Neuropathy"
+    },
+    {
+        "sNo": 292,
+        "disease": "Diabetic Retinopathy"
+    },
+    {
+        "sNo": 293,
+        "disease": "Diaper Rash"
+    },
+    {
+        "sNo": 294,
+        "disease": "Diarrhea"
+    },
+    {
+        "sNo": 295,
+        "disease": "Digeorge Syndrome"
+    },
+    {
+        "sNo": 296,
+        "disease": "Dilated Cardiomyopathy"
+    },
+    {
+        "sNo": 297,
+        "disease": "Dimorphic Hemmorhoids(Piles)"
+    },
+    {
+        "sNo": 298,
+        "disease": "Diphtheria"
+    },
+    {
+        "sNo": 299,
+        "disease": "Dislocated Shoulder"
+    },
+    {
+        "sNo": 300,
+        "disease": "Dissociative Disorders"
+    },
+    {
+        "sNo": 301,
+        "disease": "Diverticulitis"
+    },
+    {
+        "sNo": 302,
+        "disease": "Dizziness"
+    },
+    {
+        "sNo": 303,
+        "disease": "Double Uterus"
+    },
+    {
+        "sNo": 304,
+        "disease": "Down Syndrome"
+    },
+    {
+        "sNo": 305,
+        "disease": "Dresslers Syndrome"
+    },
+    {
+        "sNo": 306,
+        "disease": "Drug Addiction"
+    },
+    {
+        "sNo": 307,
+        "disease": "Drug Allergy"
+    },
+    {
+        "sNo": 308,
+        "disease": "Drug Reaction"
+    },
+    {
+        "sNo": 309,
+        "disease": "Dry Eyes"
+    },
+    {
+        "sNo": 310,
+        "disease": "Dry Macular Degeneration"
+    },
+    {
+        "sNo": 311,
+        "disease": "Dry Mouth"
+    },
+    {
+        "sNo": 312,
+        "disease": "Dry Skin"
+    },
+    {
+        "sNo": 313,
+        "disease": "Dry Socket"
+    },
+    {
+        "sNo": 314,
+        "disease": "Dsrct"
+    },
+    {
+        "sNo": 315,
+        "disease": "Dumping Syndrome"
+    },
+    {
+        "sNo": 316,
+        "disease": "Dupuytrens Contracture"
+    },
+    {
+        "sNo": 317,
+        "disease": "Dural Arteriovenous Fistulas"
+    },
+    {
+        "sNo": 318,
+        "disease": "Dust Mites"
+    },
+    {
+        "sNo": 319,
+        "disease": "Dwarfism"
+    },
+    {
+        "sNo": 320,
+        "disease": "Dysarthria"
+    },
+    {
+        "sNo": 321,
+        "disease": "Dyshidrosis"
+    },
+    {
+        "sNo": 322,
+        "disease": "Dyslexia"
+    },
+    {
+        "sNo": 323,
+        "disease": "Dysphagia"
+    },
+    {
+        "sNo": 324,
+        "disease": "Dystonia"
+    },
+    {
+        "sNo": 325,
+        "disease": "E Coli"
+    },
+    {
+        "sNo": 326,
+        "disease": "Ear Infections"
+    },
+    {
+        "sNo": 327,
+        "disease": "Eating Disorders"
+    },
+    {
+        "sNo": 328,
+        "disease": "Ebsteins Anomaly"
+    },
+    {
+        "sNo": 329,
+        "disease": "Ectopic Pregnancy"
+    },
+    {
+        "sNo": 330,
+        "disease": "Ectropion"
+    },
+    {
+        "sNo": 331,
+        "disease": "Edema"
+    },
+    {
+        "sNo": 332,
+        "disease": "Egg Allergy"
+    },
+    {
+        "sNo": 333,
+        "disease": "Ehlers Danlos Syndrome"
+    },
+    {
+        "sNo": 334,
+        "disease": "Ehrlichiosis"
+    },
+    {
+        "sNo": 335,
+        "disease": "Eisenmenger Syndrome"
+    },
+    {
+        "sNo": 336,
+        "disease": "Emphysema"
+    },
+    {
+        "sNo": 337,
+        "disease": "Encephalitis"
+    },
+    {
+        "sNo": 338,
+        "disease": "Encopresis"
+    },
+    {
+        "sNo": 339,
+        "disease": "End Stage Renal Disease"
+    },
+    {
+        "sNo": 340,
+        "disease": "Endocarditis"
+    },
+    {
+        "sNo": 341,
+        "disease": "Endometriosis"
+    },
+    {
+        "sNo": 342,
+        "disease": "Enlarged Liver"
+    },
+    {
+        "sNo": 343,
+        "disease": "Enlarged Spleen"
+    },
+    {
+        "sNo": 344,
+        "disease": "Enterocele"
+    },
+    {
+        "sNo": 345,
+        "disease": "Entropion"
+    },
+    {
+        "sNo": 346,
+        "disease": "Eosinophilic Esophagitis"
+    },
+    {
+        "sNo": 347,
+        "disease": "Epidermoid Cysts"
+    },
+    {
+        "sNo": 348,
+        "disease": "Epidermolysis Bullosa"
+    },
+    {
+        "sNo": 349,
+        "disease": "Epididymitis"
+    },
+    {
+        "sNo": 350,
+        "disease": "Epilepsy"
+    },
+    {
+        "sNo": 351,
+        "disease": "Erectile Dysfunction"
+    },
+    {
+        "sNo": 352,
+        "disease": "Esophageal Cancer"
+    },
+    {
+        "sNo": 353,
+        "disease": "Esophageal Spasms"
+    },
+    {
+        "sNo": 354,
+        "disease": "Esophageal Varices"
+    },
+    {
+        "sNo": 355,
+        "disease": "Esophagitis"
+    },
+    {
+        "sNo": 356,
+        "disease": "Essential Tremor"
+    },
+    {
+        "sNo": 357,
+        "disease": "Esthesioneuroblastoma"
+    },
+    {
+        "sNo": 358,
+        "disease": "Ewing Sarcoma"
+    },
+    {
+        "sNo": 359,
+        "disease": "Exercise Headaches"
+    },
+    {
+        "sNo": 360,
+        "disease": "Exercise Induced Asthma"
+    },
+    {
+        "sNo": 361,
+        "disease": "Eye Floaters"
+    },
+    {
+        "sNo": 362,
+        "disease": "Eye Melanoma"
+    },
+    {
+        "sNo": 363,
+        "disease": "Eyestrain"
+    },
+    {
+        "sNo": 364,
+        "disease": "Factitious Disorder"
+    },
+    {
+        "sNo": 365,
+        "disease": "Factor V Leiden"
+    },
+    {
+        "sNo": 366,
+        "disease": "Familial Adenomatous Polyposis"
+    },
+    {
+        "sNo": 367,
+        "disease": "Familial Hypercholesterolemia"
+    },
+    {
+        "sNo": 368,
+        "disease": "Familial Mediterranean Fever"
+    },
+    {
+        "sNo": 369,
+        "disease": "Farsightedness"
+    },
+    {
+        "sNo": 370,
+        "disease": "Febrile Seizure"
+    },
+    {
+        "sNo": 371,
+        "disease": "Fecal Incontinence"
+    },
+    {
+        "sNo": 372,
+        "disease": "Female Infertility"
+    },
+    {
+        "sNo": 373,
+        "disease": "Female Sexual Dysfunction"
+    },
+    {
+        "sNo": 374,
+        "disease": "Fetal Alcohol Syndrome"
+    },
+    {
+        "sNo": 375,
+        "disease": "Fetal Macrosomia"
+    },
+    {
+        "sNo": 376,
+        "disease": "Fever"
+    },
+    {
+        "sNo": 377,
+        "disease": "Fibroadenoma"
+    },
+    {
+        "sNo": 378,
+        "disease": "Fibrocystic Breasts"
+    },
+    {
+        "sNo": 379,
+        "disease": "Fibromuscular Dysplasia"
+    },
+    {
+        "sNo": 380,
+        "disease": "Fibromyalgia"
+    },
+    {
+        "sNo": 381,
+        "disease": "Flatfeet"
+    },
+    {
+        "sNo": 382,
+        "disease": "Floor Mouth Cancer"
+    },
+    {
+        "sNo": 383,
+        "disease": "Flu"
+    },
+    {
+        "sNo": 384,
+        "disease": "Folliculitis"
+    },
+    {
+        "sNo": 385,
+        "disease": "Food Allergy"
+    },
+    {
+        "sNo": 386,
+        "disease": "Food Poisoning"
+    },
+    {
+        "sNo": 387,
+        "disease": "Foot Drop"
+    },
+    {
+        "sNo": 388,
+        "disease": "Frontal Lobe Seizures"
+    },
+    {
+        "sNo": 389,
+        "disease": "Frontotemporal Dementia"
+    },
+    {
+        "sNo": 390,
+        "disease": "Frostbite"
+    },
+    {
+        "sNo": 391,
+        "disease": "Frozen Shoulder"
+    },
+    {
+        "sNo": 392,
+        "disease": "Fuchs Dystrophy"
+    },
+    {
+        "sNo": 393,
+        "disease": "Functional Dyspepsia"
+    },
+    {
+        "sNo": 394,
+        "disease": "Fungal Infection"
+    },
+    {
+        "sNo": 395,
+        "disease": "Galactorrhea"
+    },
+    {
+        "sNo": 396,
+        "disease": "Gallbladder Cancer"
+    },
+    {
+        "sNo": 397,
+        "disease": "Gallstones"
+    },
+    {
+        "sNo": 398,
+        "disease": "Ganglion Cyst"
+    },
+    {
+        "sNo": 399,
+        "disease": "Gangrene"
+    },
+    {
+        "sNo": 400,
+        "disease": "Gas And Gas Pains"
+    },
+    {
+        "sNo": 401,
+        "disease": "Gastritis"
+    },
+    {
+        "sNo": 402,
+        "disease": "Gastroenteritis"
+    },
+    {
+        "sNo": 403,
+        "disease": "Gastroesophageal Reflux Disease"
+    },
+    {
+        "sNo": 404,
+        "disease": "Gastrointestinal Bleeding"
+    },
+    {
+        "sNo": 405,
+        "disease": "Gastroparesis"
+    },
+    {
+        "sNo": 406,
+        "disease": "Gauchers Disease"
+    },
+    {
+        "sNo": 407,
+        "disease": "Gender Dysphoria"
+    },
+    {
+        "sNo": 408,
+        "disease": "Generalized Anxiety Disorder"
+    },
+    {
+        "sNo": 409,
+        "disease": "Genital Herpes"
+    },
+    {
+        "sNo": 410,
+        "disease": "Genital Warts"
+    },
+    {
+        "sNo": 411,
+        "disease": "Geographic Tongue"
+    },
+    {
+        "sNo": 412,
+        "disease": "Gerd"
+    },
+    {
+        "sNo": 413,
+        "disease": "Gestational Diabetes"
+    },
+    {
+        "sNo": 414,
+        "disease": "Giant Cell Arteritis"
+    },
+    {
+        "sNo": 415,
+        "disease":"Giardia Infection"
+    },
+    {
+        "sNo": 416,
+        "disease": "Gilberts Syndrome"
+    },
+    {
+        "sNo": 417,
+        "disease": "Gingivitis"
+    },
+    {
+        "sNo": 418,
+        "disease": "Glaucoma"
+    },
+    {
+        "sNo": 419,
+        "disease": "Glioma"
+    },
+    {
+        "sNo": 420,
+        "disease": "Glomerulonephritis"
+    },
+    {
+        "sNo": 421,
+        "disease": "Goiter"
+    },
+    {
+        "sNo": 422,
+        "disease": "Golfers Elbow"
+    },
+    {
+        "sNo": 423,
+        "disease": "Gonorrhea"
+    },
+    {
+        "sNo": 424,
+        "disease": "Gout"
+    },
+    {
+        "sNo": 425,
+        "disease": "Grand Mal Seizure"
+    },
+    {
+        "sNo": 426,
+        "disease": "Granuloma Annulare"
+    },
+    {
+        "sNo": 427,
+        "disease": "Granulomatosis With Polyangiitis"
+    },
+    {
+        "sNo": 428,
+        "disease": "Graves Disease"
+    },
+    {
+        "sNo": 429,
+        "disease": "Greenstick Fractures"
+    },
+    {
+        "sNo": 430,
+        "disease": "Group B Strep"
+    },
+    {
+        "sNo": 431,
+        "disease": "Growth Plate Fractures"
+    },
+    {
+        "sNo": 432,
+        "disease": "Guillain Barre Syndrome"
+    },
+    {
+        "sNo": 433,
+        "disease": "Gynecomastia"
+    },
+    {
+        "sNo": 434,
+        "disease": "H Pylori"
+    },
+    {
+        "sNo": 435,
+        "disease": "Hair Loss"
+    },
+    {
+        "sNo": 436,
+        "disease": "Hairy Cell Leukemia"
+    },
+    {
+        "sNo": 437,
+        "disease": "Hammertoe And Mallet Toe"
+    },
+    {
+        "sNo": 438,
+        "disease": "Hamstring Injury"
+    },
+    {
+        "sNo": 439,
+        "disease": "Hand Foot And Mouth Disease"
+    },
+    {
+        "sNo": 440,
+        "disease": "Hangovers"
+    },
+    {
+        "sNo": 441,
+        "disease": "Hantavirus Pulmonary Syndrome"
+    },
+    {
+        "sNo": 442,
+        "disease": "Hay Fever"
+    },
+    {
+        "sNo": 443,
+        "disease": "Head Lice"
+    },
+    {
+        "sNo": 444,
+        "disease": "Headaches In Children"
+    },
+    {
+        "sNo": 445,
+        "disease": "Hearing Loss"
+    },
+    {
+        "sNo": 446,
+        "disease": "Heart Arrhythmia"
+    },
+    {
+        "sNo": 447,
+        "disease": "Heart Attack"
+    },
+    {
+        "sNo": 448,
+        "disease": "Heart Disease"
+    },
+    {
+        "sNo": 449,
+        "disease": "Heart Failure"
+    },
+    {
+        "sNo": 450,
+        "disease": "Heart Murmurs"
+    },
+    {
+        "sNo": 451,
+        "disease": "Heart Palpitations"
+    },
+    {
+        "sNo": 452,
+        "disease": "Heart Valve Disease"
+    },
+    {
+        "sNo": 453,
+        "disease": "Heartburn"
+    },
+    {
+        "sNo": 454,
+        "disease": "Heat Exhaustion"
+    },
+    {
+        "sNo": 455,
+        "disease": "Heat Rash"
+    },
+    {
+        "sNo": 456,
+        "disease": "Heat Stroke"
+    },
+    {
+        "sNo": 457,
+        "disease": "Hemangioma"
+    },
+    {
+        "sNo": 458,
+        "disease": "Hemifacial Spasm"
+    },
+    {
+        "sNo": 459,
+        "disease": "Hemochromatosis"
+    },
+    {
+        "sNo": 460,
+        "disease": "Hemolytic Uremic Syndrome"
+    },
+    {
+        "sNo": 461,
+        "disease": "Hemophilia"
+    },
+    {
+        "sNo": 462,
+        "disease": "Hemorrhoids"
+    },
+    {
+        "sNo": 463,
+        "disease": "Henoch Schonlein Purpura"
+    },
+    {
+        "sNo": 464,
+        "disease": "Hepatitis A"
+    },
+    {
+        "sNo": 465,
+        "disease": "Hepatitis B"
+    },
+    {
+        "sNo": 466,
+        "disease": "Hepatitis C"
+    },
+    {
+        "sNo": 467,
+        "disease": "Hepatitis D"
+    },
+    {
+        "sNo": 468,
+        "disease": "Hepatitis E"
+    },
+    {
+        "sNo": 469,
+        "disease": "Hepatopulmonary Syndrome"
+    },
+    {
+        "sNo": 470,
+        "disease": "Herniated Disk"
+    },
+    {
+        "sNo": 471,
+        "disease": "Hht"
+    },
+    {
+        "sNo": 472,
+        "disease": "Hiatal Hernia"
+    },
+    {
+        "sNo": 473,
+        "disease": "Hiccups"
+    },
+    {
+        "sNo": 474,
+        "disease": "Hidradenitis Suppurativa"
+    },
+    {
+        "sNo": 475,
+        "disease": "High Blood Cholesterol"
+    },
+    {
+        "sNo": 476,
+        "disease": "High Blood Pressure"
+    },
+    {
+        "sNo": 477,
+        "disease": "High Blood Pressure In Children"
+    },
+    {
+        "sNo": 478,
+        "disease": "Hip Dysplasia"
+    },
+    {
+        "sNo": 479,
+        "disease": "Hip Fracture"
+    },
+    {
+        "sNo": 480,
+        "disease": "Hip Labral Tear"
+    },
+    {
+        "sNo": 481,
+        "disease": "Hirschsprungs Disease"
+    },
+    {
+        "sNo": 482,
+        "disease": "Histoplasmosis"
+    },
+    {
+        "sNo": 483,
+        "disease": "Hiv Aids"
+    },
+    {
+        "sNo": 484,
+        "disease": "Hives And Angioedema"
+    },
+    {
+        "sNo": 485,
+        "disease": "Hoarding Disorder"
+    },
+    {
+        "sNo": 486,
+        "disease": "Hodgkins Lymphoma"
+    },
+    {
+        "sNo": 487,
+        "disease": "Horner Syndrome"
+    },
+    {
+        "sNo": 488,
+        "disease": "Hot Flashes"
+    },
+    {
+        "sNo": 489,
+        "disease": "Hpv Infection"
+    },
+    {
+        "sNo": 490,
+        "disease": "Huntingtons Disease"
+    },
+    {
+        "sNo": 491,
+        "disease": "Hurthle Cell Cancer"
+    },
+    {
+        "sNo": 492,
+        "disease": "Hydrocele"
+    },
+    {
+        "sNo": 493,
+        "disease": "Hydrocephalus"
+    },
+    {
+        "sNo": 494,
+        "disease": "Hypercalcemia"
+    },
+    {
+        "sNo": 495,
+        "disease": "Hypereosinophilic Syndrome"
+    },
+    {
+        "sNo": 496,
+        "disease": "Hyperglycemia"
+    },
+    {
+        "sNo": 497,
+        "disease": "Hyperhidrosis"
+    },
+    {
+        "sNo": 498,
+        "disease": "Hyperoxaluria"
+    },
+    {
+        "sNo": 499,
+        "disease": "Hyperparathyroidism"
+    },
+    {
+        "sNo": 500,
+        "disease": "Hypertension"
+    },
+    {
+        "sNo": 501,
+        "disease": "Hypertension "
+    },
+    {
+        "sNo": 502,
+        "disease": "Hyperthyroidism"
+    },
+    {
+        "sNo": 503,
+        "disease": "Hypertrophic Cardiomyopathy"
+    },
+    {
+        "sNo": 504,
+        "disease": "Hypoglycemia"
+    },
+    {
+        "sNo": 505,
+        "disease": "Hyponatremia"
+    },
+    {
+        "sNo": 506,
+        "disease": "Hypoparathyroidism"
+    },
+    {
+        "sNo": 507,
+        "disease": "Hypopituitarism"
+    },
+    {
+        "sNo": 508,
+        "disease": "Hypoplastic Left Heart Syndrome"
+    },
+    {
+        "sNo": 509,
+        "disease": "Hypospadias"
+    },
+    {
+        "sNo": 510,
+        "disease": "Hypothermia"
+    },
+    {
+        "sNo": 511,
+        "disease": "Hypothyroidism"
+    },
+    {
+        "sNo": 512,
+        "disease": "Idiopathic Thrombocytopenic Purpura"
+    },
+    {
+        "sNo": 513,
+        "disease": "Iga Nephropathy"
+    },
+    {
+        "sNo": 514,
+        "disease": "Illness Anxiety Disorder"
+    },
+    {
+        "sNo": 515,
+        "disease": "Impetigo"
+    },
+    {
+        "sNo": 516,
+        "disease": "Incompetent Cervix"
+    },
+    {
+        "sNo": 517,
+        "disease": "Indigestion"
+    },
+    {
+        "sNo": 518,
+        "disease": "Infant Acid Reflux"
+    },
+    {
+        "sNo": 519,
+        "disease": "Infant Jaundice"
+    },
+    {
+        "sNo": 520,
+        "disease": "Infectious Diseases"
+    },
+    {
+        "sNo": 521,
+        "disease": "Infertility"
+    },
+    {
+        "sNo": 522,
+        "disease": "Inflammatory Bowel Disease"
+    },
+    {
+        "sNo": 523,
+        "disease": "Inflammatory Breast Cancer"
+    },
+    {
+        "sNo": 524,
+        "disease": "Ingrown Hair"
+    },
+    {
+        "sNo": 525,
+        "disease": "Ingrown Toenails"
+    },
+    {
+        "sNo": 526,
+        "disease": "Inguinal Hernia"
+    },
+    {
+        "sNo": 527,
+        "disease": "Insomnia"
+    },
+    {
+        "sNo": 528,
+        "disease": "Intermittent Explosive Disorder"
+    },
+    {
+        "sNo": 529,
+        "disease": "Interstitial Cystitis"
+    },
+    {
+        "sNo": 530,
+        "disease": "Interstitial Lung Disease"
+    },
+    {
+        "sNo": 531,
+        "disease": "Intestinal Ischemia"
+    },
+    {
+        "sNo": 532,
+        "disease": "Intestinal Obstruction"
+    },
+    {
+        "sNo": 533,
+        "disease": "Intracranial Hematoma"
+    },
+    {
+        "sNo": 534,
+        "disease": "Intussusception"
+    },
+    {
+        "sNo": 535,
+        "disease": "Invasive Lobular Carcinoma"
+    },
+    {
+        "sNo": 536,
+        "disease": "Iritis"
+    },
+    {
+        "sNo": 537,
+        "disease": "Iron Deficiency Anemia"
+    },
+    {
+        "sNo": 538,
+        "disease": "Irritable Bowel Syndrome"
+    },
+    {
+        "sNo": 539,
+        "disease": "Ischemic Colitis"
+    },
+    {
+        "sNo": 540,
+        "disease": "Itchy Skin"
+    },
+    {
+        "sNo": 541,
+        "disease": "Jaundice"
+    },
+    {
+        "sNo": 542,
+        "disease": "Jaw Tumors Cysts"
+    },
+    {
+        "sNo": 543,
+        "disease": "Jellyfish Stings"
+    },
+    {
+        "sNo": 544,
+        "disease": "Jet Lag"
+    },
+    {
+        "sNo": 545,
+        "disease": "Jock Itch"
+    },
+    {
+        "sNo": 546,
+        "disease": "Juvenile Idiopathic Arthritis"
+    },
+    {
+        "sNo": 547,
+        "disease": "Kawasaki Disease"
+    },
+    {
+        "sNo": 548,
+        "disease": "Keloid Scar"
+    },
+    {
+        "sNo": 549,
+        "disease": "Keratitis"
+    },
+    {
+        "sNo": 550,
+        "disease": "Keratoconus"
+    },
+    {
+        "sNo": 551,
+        "disease": "Keratosis Pilaris"
+    },
+    {
+        "sNo": 552,
+        "disease": "Kidney Cancer"
+    },
+    {
+        "sNo": 553,
+        "disease": "Kidney Cysts"
+    },
+    {
+        "sNo": 554,
+        "disease": "Kidney Failure"
+    },
+    {
+        "sNo": 555,
+        "disease": "Kidney Infection"
+    },
+    {
+        "sNo": 556,
+        "disease": "Kidney Stones"
+    },
+    {
+        "sNo": 557,
+        "disease": "Kleptomania"
+    },
+    {
+        "sNo": 558,
+        "disease": "Klinefelter Syndrome"
+    },
+    {
+        "sNo": 559,
+        "disease": "Klippel Trenaunay"
+    },
+    {
+        "sNo": 560,
+        "disease": "Knee Bursitis"
+    },
+    {
+        "sNo": 561,
+        "disease": "Knee Pain"
+    },
+    {
+        "sNo": 562,
+        "disease": "Kyphosis"
+    },
+    {
+        "sNo": 563,
+        "disease": "Lactose Intolerance"
+    },
+    {
+        "sNo": 564,
+        "disease": "Laryngitis"
+    },
+    {
+        "sNo": 565,
+        "disease": "Latex Allergy"
+    },
+    {
+        "sNo": 566,
+        "disease": "Lazy Eye"
+    },
+    {
+        "sNo": 567,
+        "disease": "Lead Poisoning"
+    },
+    {
+        "sNo": 568,
+        "disease": "Left Ventricular Hypertrophy"
+    },
+    {
+        "sNo": 569,
+        "disease": "Legg Calve Perthes Disease"
+    },
+    {
+        "sNo": 570,
+        "disease": "Legionnaires Disease"
+    },
+    {
+        "sNo": 571,
+        "disease": "Leukemia"
+    },
+    {
+        "sNo": 572,
+        "disease": "Leukoplakia"
+    },
+    {
+        "sNo": 573,
+        "disease": "Lewy Body Dementia"
+    },
+    {
+        "sNo": 574,
+        "disease": "Lice"
+    },
+    {
+        "sNo": 575,
+        "disease": "Lichen Planus"
+    },
+    {
+        "sNo": 576,
+        "disease": "Lichen Sclerosus"
+    },
+    {
+        "sNo": 577,
+        "disease": "Lip Cancer"
+    },
+    {
+        "sNo": 578,
+        "disease": "Lipoma"
+    },
+    {
+        "sNo": 579,
+        "disease": "Liposarcoma"
+    },
+    {
+        "sNo": 580,
+        "disease": "Listeria Infection"
+    },
+    {
+        "sNo": 581,
+        "disease": "Liver Cancer"
+    },
+    {
+        "sNo": 582,
+        "disease": "Liver Hemangioma"
+    },
+    {
+        "sNo": 583,
+        "disease": "Liver Problems"
+    },
+    {
+        "sNo": 584,
+        "disease": "Lobular Carcinoma In Situ"
+    },
+    {
+        "sNo": 585,
+        "disease": "Long QT Syndrome"
+    },
+    {
+        "sNo": 586,
+        "disease": "Low Blood Pressure"
+    },
+    {
+        "sNo": 587,
+        "disease": "Low Sex Drive In Women"
+    },
+    {
+        "sNo": 588,
+        "disease": "Low Sperm Count"
+    },
+    {
+        "sNo": 589,
+        "disease": "Lung Cancer"
+    },
+    {
+        "sNo": 590,
+        "disease": "Lupus"
+    },
+    {
+        "sNo": 591,
+        "disease": "Lupus Nephritis"
+    },
+    {
+        "sNo": 592,
+        "disease": "Lyme Disease"
+    },
+    {
+        "sNo": 593,
+        "disease": "Lymphedema"
+    },
+    {
+        "sNo": 594,
+        "disease": "Lymphoma"
+    },
+    {
+        "sNo": 595,
+        "disease": "Lynch Syndrome"
+    },
+    {
+        "sNo": 596,
+        "disease": "Malaria"
+    },
+    {
+        "sNo": 597,
+        "disease": "Male Breast Cancer"
+    },
+    {
+        "sNo": 598,
+        "disease": "Male Hypogonadism"
+    },
+    {
+        "sNo": 599,
+        "disease": "Male Infertility"
+    },
+    {
+        "sNo": 600,
+        "disease": "Malignant Hyperthermia"
+    },
+    {
+        "sNo": 601,
+        "disease": "Malignant Peripheral Nerve Sheath Tumors"
+    },
+    {
+        "sNo": 602,
+        "disease": "Mammary Duct Ectasia"
+    },
+    {
+        "sNo": 603,
+        "disease": "Marfan Syndrome"
+    },
+    {
+        "sNo": 604,
+        "disease": "Mastitis"
+    },
+    {
+        "sNo": 605,
+        "disease": "Mcad Deficiency"
+    },
+    {
+        "sNo": 606,
+        "disease": "Measles"
+    },
+    {
+        "sNo": 607,
+        "disease": "Median Arcuate Ligament Syndrome Mals"
+    },
+    {
+        "sNo": 608,
+        "disease": "Medication Overuse Headache"
+    },
+    {
+        "sNo": 609,
+        "disease": "Melanoma"
+    },
+    {
+        "sNo": 610,
+        "disease": "Men 1"
+    },
+    {
+        "sNo": 611,
+        "disease": "Men 2"
+    },
+    {
+        "sNo": 612,
+        "disease": "Menieres Disease"
+    },
+    {
+        "sNo": 613,
+        "disease": "Meningioma"
+    },
+    {
+        "sNo": 614,
+        "disease": "Meningitis"
+    },
+    {
+        "sNo": 615,
+        "disease": "Menopause"
+    },
+    {
+        "sNo": 616,
+        "disease": "Menorrhagia"
+    },
+    {
+        "sNo": 617,
+        "disease": "Menstrual Cramps"
+    },
+    {
+        "sNo": 618,
+        "disease": "Mental Illness"
+    },
+    {
+        "sNo": 619,
+        "disease": "Meralgia Paresthetica"
+    },
+    {
+        "sNo": 620,
+        "disease": "Merkel Cell Carcinoma"
+    },
+    {
+        "sNo": 621,
+        "disease": "Mesenteric Ischemia"
+    },
+    {
+        "sNo": 622,
+        "disease": "Mesenteric Lymphadenitis"
+    },
+    {
+        "sNo": 623,
+        "disease": "Mesothelioma"
+    },
+    {
+        "sNo": 624,
+        "disease": "Metabolic Syndrome"
+    },
+    {
+        "sNo": 625,
+        "disease": "Metachromatic Leukodystrophy"
+    },
+    {
+        "sNo": 626,
+        "disease": "Metatarsalgia"
+    },
+    {
+        "sNo": 627,
+        "disease": "Mgus"
+    },
+    {
+        "sNo": 628,
+        "disease": "Microcephaly"
+    },
+    {
+        "sNo": 629,
+        "disease": "Microscopic Colitis"
+    },
+    {
+        "sNo": 630,
+        "disease": "Migraine"
+    },
+    {
+        "sNo": 631,
+        "disease": "Migraine Headache"
+    },
+    {
+        "sNo": 632,
+        "disease": "Migraine With Aura"
+    },
+    {
+        "sNo": 633,
+        "disease": "Mild Cognitive Impairment"
+    },
+    {
+        "sNo": 634,
+        "disease": "Milk Allergy"
+    },
+    {
+        "sNo": 635,
+        "disease": "Mitral Valve Disease"
+    },
+    {
+        "sNo": 636,
+        "disease": "Mitral Valve Prolapse"
+    },
+    {
+        "sNo": 637,
+        "disease": "Mitral Valve Regurgitation"
+    },
+    {
+        "sNo": 638,
+        "disease": "Mitral Valve Stenosis"
+    },
+    {
+        "sNo": 639,
+        "disease": "Mittelschmerz"
+    },
+    {
+        "sNo": 640,
+        "disease": "Mixed Connective Tissue Disease"
+    },
+    {
+        "sNo": 641,
+        "disease": "Molar Pregnancy"
+    },
+    {
+        "sNo": 642,
+        "disease": "Mold Allergy"
+    },
+    {
+        "sNo": 643,
+        "disease": "Moles"
+    },
+    {
+        "sNo": 644,
+        "disease": "Molluscum Contagiosum"
+    },
+    {
+        "sNo": 645,
+        "disease": "Mononucleosis"
+    },
+    {
+        "sNo": 646,
+        "disease": "Morning Sickness"
+    },
+    {
+        "sNo": 647,
+        "disease": "Morphea"
+    },
+    {
+        "sNo": 648,
+        "disease": "Mortons Neuroma"
+    },
+    {
+        "sNo": 649,
+        "disease": "Mosquito Bites"
+    },
+    {
+        "sNo": 650,
+        "disease": "Mouth Cancer"
+    },
+    {
+        "sNo": 651,
+        "disease": "Mrsa"
+    },
+    {
+        "sNo": 652,
+        "disease": "Multiple Myeloma"
+    },
+    {
+        "sNo": 653,
+        "disease": "Multiple Sclerosis"
+    },
+    {
+        "sNo": 654,
+        "disease": "Multiple System Atrophy"
+    },
+    {
+        "sNo": 655,
+        "disease": "Mumps"
+    },
+    {
+        "sNo": 656,
+        "disease": "Muscle Cramp"
+    },
+    {
+        "sNo": 657,
+        "disease": "Muscle Strains"
+    },
+    {
+        "sNo": 658,
+        "disease": "Muscular Dystrophy"
+    },
+    {
+        "sNo": 659,
+        "disease": "Myasthenia Gravis"
+    },
+    {
+        "sNo": 660,
+        "disease": "Myelodysplastic Syndrome"
+    },
+    {
+        "sNo": 661,
+        "disease": "Myelofibrosis"
+    },
+    {
+        "sNo": 662,
+        "disease": "Myocardial Ischemia"
+    },
+    {
+        "sNo": 663,
+        "disease": "Myocarditis"
+    },
+    {
+        "sNo": 664,
+        "disease": "Myoclonus"
+    },
+    {
+        "sNo": 665,
+        "disease": "Myofascial Pain Syndrome"
+    },
+    {
+        "sNo": 666,
+        "disease": "Nail Fungus"
+    },
+    {
+        "sNo": 667,
+        "disease": "Narcissistic Personality Disorder"
+    },
+    {
+        "sNo": 668,
+        "disease": "Narcolepsy"
+    },
+    {
+        "sNo": 669,
+        "disease": "Nasal Paranasal Tumors"
+    },
+    {
+        "sNo": 670,
+        "disease": "Nasal Polyps"
+    },
+    {
+        "sNo": 671,
+        "disease": "Nasopharyngeal Carcinoma"
+    },
+    {
+        "sNo": 672,
+        "disease": "Nearsightedness"
+    },
+    {
+        "sNo": 673,
+        "disease": "Neck Pain"
+    },
+    {
+        "sNo": 674,
+        "disease": "Nephrogenic Systemic Fibrosis"
+    },
+    {
+        "sNo": 675,
+        "disease": "Nephrotic Syndrome"
+    },
+    {
+        "sNo": 676,
+        "disease": "Neuroblastoma"
+    },
+    {
+        "sNo": 677,
+        "disease": "Neurodermatitis"
+    },
+    {
+        "sNo": 678,
+        "disease": "Neuroendocrine Tumors"
+    },
+    {
+        "sNo": 679,
+        "disease": "Neurofibromatosis"
+    },
+    {
+        "sNo": 680,
+        "disease": "Nickel Allergy"
+    },
+    {
+        "sNo": 681,
+        "disease": "Nicotine Dependence"
+    },
+    {
+        "sNo": 682,
+        "disease": "Niemann Pick"
+    },
+    {
+        "sNo": 683,
+        "disease": "Nightmare Disorder"
+    },
+    {
+        "sNo": 684,
+        "disease": "Non Hodgkins Lymphoma"
+    },
+    {
+        "sNo": 685,
+        "disease": "Nonalcoholic Fatty Liver Disease"
+    },
+    {
+        "sNo": 686,
+        "disease": "Nonallergic Rhinitis"
+    },
+    {
+        "sNo": 687,
+        "disease": "Noonan Syndrome"
+    },
+    {
+        "sNo": 688,
+        "disease": "Norovirus"
+    },
+    {
+        "sNo": 689,
+        "disease": "Obesity"
+    },
+    {
+        "sNo": 690,
+        "disease": "Obsessive Compulsive Disorder"
+    },
+    {
+        "sNo": 691,
+        "disease": "Obstructive Sleep Apnea"
+    },
+    {
+        "sNo": 692,
+        "disease": "Occupational Asthma"
+    },
+    {
+        "sNo": 693,
+        "disease": "Ocular Rosacea"
+    },
+    {
+        "sNo": 694,
+        "disease": "Oppositional Defiant Disorder"
+    },
+    {
+        "sNo": 695,
+        "disease": "Optic Neuritis"
+    },
+    {
+        "sNo": 696,
+        "disease": "Oral Lichen Planus"
+    },
+    {
+        "sNo": 697,
+        "disease": "Oral Thrush"
+    },
+    {
+        "sNo": 698,
+        "disease": "Orchitis"
+    },
+    {
+        "sNo": 699,
+        "disease": "Orthostatic Hypotension"
+    },
+    {
+        "sNo": 700,
+        "disease": "Osteoarthristis"
+    },
+    {
+        "sNo": 701,
+        "disease": "Osteoarthritis"
+    },
+    {
+        "sNo": 702,
+        "disease": "Osteochondritis Dissecans"
+    },
+    {
+        "sNo": 703,
+        "disease": "Osteomyelitis"
+    },
+    {
+        "sNo": 704,
+        "disease": "Osteoporosis"
+    },
+    {
+        "sNo": 705,
+        "disease": "Osteosarcoma"
+    },
+    {
+        "sNo": 706,
+        "disease": "Ovarian Cancer"
+    },
+    {
+        "sNo": 707,
+        "disease": "Ovarian Cysts"
+    },
+    {
+        "sNo": 708,
+        "disease": "Ovarian Hyperstimulation Syndrome Ohss"
+    },
+    {
+        "sNo": 709,
+        "disease": "Overactive Bladder"
+    },
+    {
+        "sNo": 710,
+        "disease": "Pagets Disease Of Bone"
+    },
+    {
+        "sNo": 711,
+        "disease": "Pagets Disease Of The Breast"
+    },
+    {
+        "sNo": 712,
+        "disease": "Painful Intercourse"
+    },
+    {
+        "sNo": 713,
+        "disease": "Pancreatic Cancer"
+    },
+    {
+        "sNo": 714,
+        "disease": "Pancreatic Cysts"
+    },
+    {
+        "sNo": 715,
+        "disease": "Pancreatic Neuroendocrine Tumors"
+    },
+    {
+        "sNo": 716,
+        "disease": "Pancreatitis"
+    },
+    {
+        "sNo": 717,
+        "disease": "Panic Attacks"
+    },
+    {
+        "sNo": 718,
+        "disease": "Paralysis (Brain Hemorrhage)"
+    },
+    {
+        "sNo": 719,
+        "disease": "Paraneoplastic Syndromes"
+    },
+    {
+        "sNo": 720,
+        "disease": "Parkinsons Disease"
+    },
+    {
+        "sNo": 721,
+        "disease": "Parvovirus Infection"
+    },
+    {
+        "sNo": 722,
+        "disease": "Patellar Tendinitis"
+    },
+    {
+        "sNo": 723,
+        "disease": "Patellofemoral Pain Syndrome"
+    },
+    {
+        "sNo": 724,
+        "disease": "Patent Ductus Arteriosus"
+    },
+    {
+        "sNo": 725,
+        "disease": "Patent Foramen Ovale"
+    },
+    {
+        "sNo": 726,
+        "disease": "Pcos"
+    },
+    {
+        "sNo": 727,
+        "disease": "Peanut Allergy"
+    },
+    {
+        "sNo": 728,
+        "disease": "Pectus Excavatum"
+    },
+    {
+        "sNo": 729,
+        "disease": "Pediatric Brain Tumor"
+    },
+    {
+        "sNo": 730,
+        "disease": "Pediatric Sleep Apnea"
+    },
+    {
+        "sNo": 731,
+        "disease": "Pelvic Inflammatory Disease"
+    },
+    {
+        "sNo": 732,
+        "disease": "Pemphigus"
+    },
+    {
+        "sNo": 733,
+        "disease": "Penicillin Allergy"
+    },
+    {
+        "sNo": 734,
+        "disease": "Peptic Ulcer"
+    },
+    {
+        "sNo": 735,
+        "disease": "Peptic Ulcer Diseae"
+    },
+    {
+        "sNo": 736,
+        "disease": "Peptic Ulcer Disease"
+    },
+    {
+        "sNo": 737,
+        "disease": "Pericardial Effusion"
+    },
+    {
+        "sNo": 738,
+        "disease": "Pericarditis"
+    },
+    {
+        "sNo": 739,
+        "disease": "Perimenopause"
+    },
+    {
+        "sNo": 740,
+        "disease": "Periodontitis"
+    },
+    {
+        "sNo": 741,
+        "disease": "Peripheral Artery Disease"
+    },
+    {
+        "sNo": 742,
+        "disease": "Peripheral Nerve Injuries"
+    },
+    {
+        "sNo": 743,
+        "disease": "Peripheral Nerve Tumors"
+    },
+    {
+        "sNo": 744,
+        "disease": "Peripheral Nerve Tumors Benign"
+    },
+    {
+        "sNo": 745,
+        "disease": "Peripheral Neuropathy"
+    },
+    {
+        "sNo": 746,
+        "disease": "Peritonitis"
+    },
+    {
+        "sNo": 747,
+        "disease": "Persistent Depressive Disorder"
+    },
+    {
+        "sNo": 748,
+        "disease": "Personality Disorders"
+    },
+    {
+        "sNo": 749,
+        "disease": "Pet Allergy"
+    },
+    {
+        "sNo": 750,
+        "disease": "Petit Mal Seizure"
+    },
+    {
+        "sNo": 751,
+        "disease": "Peyronies Disease"
+    },
+    {
+        "sNo": 752,
+        "disease": "Phenylketonuria"
+    },
+    {
+        "sNo": 753,
+        "disease": "Pheochromocytoma"
+    },
+    {
+        "sNo": 754,
+        "disease": "Pilonidal Cyst"
+    },
+    {
+        "sNo": 755,
+        "disease": "Pinched Nerve"
+    },
+    {
+        "sNo": 756,
+        "disease": "Pink Eye"
+    },
+    {
+        "sNo": 757,
+        "disease": "Pinworm"
+    },
+    {
+        "sNo": 758,
+        "disease": "Pituitary Tumors"
+    },
+    {
+        "sNo": 759,
+        "disease": "Pityriasis Rosea"
+    },
+    {
+        "sNo": 760,
+        "disease": "Placenta Accreta"
+    },
+    {
+        "sNo": 761,
+        "disease": "Placenta Previa"
+    },
+    {
+        "sNo": 762,
+        "disease": "Placental Abruption"
+    },
+    {
+        "sNo": 763,
+        "disease": "Plague"
+    },
+    {
+        "sNo": 764,
+        "disease": "Plantar Fasciitis"
+    },
+    {
+        "sNo": 765,
+        "disease": "Plantar Warts"
+    },
+    {
+        "sNo": 766,
+        "disease": "Pneumonia"
+    },
+    {
+        "sNo": 767,
+        "disease": "Pneumonitis"
+    },
+    {
+        "sNo": 768,
+        "disease": "Pneumothorax"
+    },
+    {
+        "sNo": 769,
+        "disease": "Poison Ivy"
+    },
+    {
+        "sNo": 770,
+        "disease": "Polio"
+    },
+    {
+        "sNo": 771,
+        "disease": "Polycystic Kidney Disease"
+    },
+    {
+        "sNo": 772,
+        "disease": "Polycythemia Vera"
+    },
+    {
+        "sNo": 773,
+        "disease": "Polyhydramnios"
+    },
+    {
+        "sNo": 774,
+        "disease": "Polymorphous Light Eruption"
+    },
+    {
+        "sNo": 775,
+        "disease": "Polymyalgia Rheumatica"
+    },
+    {
+        "sNo": 776,
+        "disease": "Polymyositis"
+    },
+    {
+        "sNo": 777,
+        "disease": "Poor Color Vision"
+    },
+    {
+        "sNo": 778,
+        "disease": "Popliteal Artery Aneurysm"
+    },
+    {
+        "sNo": 779,
+        "disease": "Popliteal Artery Entrapment"
+    },
+    {
+        "sNo": 780,
+        "disease": "Porphyria"
+    },
+    {
+        "sNo": 781,
+        "disease": "Post Concussion Syndrome"
+    },
+    {
+        "sNo": 782,
+        "disease": "Post Polio Syndrome"
+    },
+    {
+        "sNo": 783,
+        "disease": "Post Traumatic Stress Disorder"
+    },
+    {
+        "sNo": 784,
+        "disease": "Post Vasectomy Pain Syndrome"
+    },
+    {
+        "sNo": 785,
+        "disease": "Posterior Cortical Atrophy"
+    },
+    {
+        "sNo": 786,
+        "disease": "Postherpetic Neuralgia"
+    },
+    {
+        "sNo": 787,
+        "disease": "Postpartum Depression"
+    },
+    {
+        "sNo": 788,
+        "disease": "Postpartum Preeclampsia"
+    },
+    {
+        "sNo": 789,
+        "disease": "Pouchitis"
+    },
+    {
+        "sNo": 790,
+        "disease": "Prader Willi Syndrome"
+    },
+    {
+        "sNo": 791,
+        "disease": "Precocious Puberty"
+    },
+    {
+        "sNo": 792,
+        "disease": "Prediabetes"
+    },
+    {
+        "sNo": 793,
+        "disease": "Preeclampsia"
+    },
+    {
+        "sNo": 794,
+        "disease": "Pregnancy Loss Miscarriage"
+    },
+    {
+        "sNo": 795,
+        "disease": "Prehypertension"
+    },
+    {
+        "sNo": 796,
+        "disease": "Premature Birth"
+    },
+    {
+        "sNo": 797,
+        "disease": "Premature Ejaculation"
+    },
+    {
+        "sNo": 798,
+        "disease": "Premature Ovarian Failure"
+    },
+    {
+        "sNo": 799,
+        "disease": "Premature Ventricular Contractions"
+    },
+    {
+        "sNo": 800,
+        "disease": "Premenstrual Syndrome"
+    },
+    {
+        "sNo": 801,
+        "disease": "Presbyopia"
+    },
+    {
+        "sNo": 802,
+        "disease": "Prescription Drug Abuse"
+    },
+    {
+        "sNo": 803,
+        "disease": "Preterm Labor"
+    },
+    {
+        "sNo": 804,
+        "disease": "Priapism"
+    },
+    {
+        "sNo": 805,
+        "disease": "Primary Biliary Cholangitis"
+    },
+    {
+        "sNo": 806,
+        "disease": "Primary Cough Headaches"
+    },
+    {
+        "sNo": 807,
+        "disease": "Primary Immunodeficiency"
+    },
+    {
+        "sNo": 808,
+        "disease": "Primary Lateral Sclerosis"
+    },
+    {
+        "sNo": 809,
+        "disease": "Primary Progressive Aphasia"
+    },
+    {
+        "sNo": 810,
+        "disease": "Primary Sclerosing Cholangitis"
+    },
+    {
+        "sNo": 811,
+        "disease": "Proctitis"
+    },
+    {
+        "sNo": 812,
+        "disease": "Progeria"
+    },
+    {
+        "sNo": 813,
+        "disease": "Progressive Supranuclear Palsy"
+    },
+    {
+        "sNo": 814,
+        "disease": "Prolactinoma"
+    },
+    {
+        "sNo": 815,
+        "disease": "Prostate Cancer"
+    },
+    {
+        "sNo": 816,
+        "disease": "Prostatitis"
+    },
+    {
+        "sNo": 817,
+        "disease": "Pseudobulbar Affect"
+    },
+    {
+        "sNo": 818,
+        "disease": "Pseudocholinesterase Deficiency"
+    },
+    {
+        "sNo": 819,
+        "disease": "Pseudogout"
+    },
+    {
+        "sNo": 820,
+        "disease": "Pseudomembranous Colitis"
+    },
+    {
+        "sNo": 821,
+        "disease": "Pseudotumor Cerebri"
+    },
+    {
+        "sNo": 822,
+        "disease": "Psoriasis"
+    },
+    {
+        "sNo": 823,
+        "disease": "Psoriatic Arthritis"
+    },
+    {
+        "sNo": 824,
+        "disease": "Pubic Lice Crabs"
+    },
+    {
+        "sNo": 825,
+        "disease": "Pulmonary Atresia"
+    },
+    {
+        "sNo": 826,
+        "disease": "Pulmonary Edema"
+    },
+    {
+        "sNo": 827,
+        "disease": "Pulmonary Embolism"
+    },
+    {
+        "sNo": 828,
+        "disease": "Pulmonary Fibrosis"
+    },
+    {
+        "sNo": 829,
+        "disease": "Pulmonary Hypertension"
+    },
+    {
+        "sNo": 830,
+        "disease": "Pulmonary Valve Stenosis"
+    },
+    {
+        "sNo": 831,
+        "disease": "Pyloric Stenosis"
+    },
+    {
+        "sNo": 832,
+        "disease": "Pyoderma Gangrenosum"
+    },
+    {
+        "sNo": 833,
+        "disease": "Rabies"
+    },
+    {
+        "sNo": 834,
+        "disease": "Radiation Enteritis"
+    },
+    {
+        "sNo": 835,
+        "disease": "Radiation Sickness"
+    },
+    {
+        "sNo": 836,
+        "disease": "Ramsay Hunt Syndrome"
+    },
+    {
+        "sNo": 837,
+        "disease": "Raynauds Disease"
+    },
+    {
+        "sNo": 838,
+        "disease": "Reactive Arthritis"
+    },
+    {
+        "sNo": 839,
+        "disease": "Reactive Attachment Disorder"
+    },
+    {
+        "sNo": 840,
+        "disease": "Rectal Cancer"
+    },
+    {
+        "sNo": 841,
+        "disease": "Rectal Prolapse"
+    },
+    {
+        "sNo": 842,
+        "disease": "Rectal Ulcer"
+    },
+    {
+        "sNo": 843,
+        "disease": "Rectocele"
+    },
+    {
+        "sNo": 844,
+        "disease": "Rectovaginal Fistula"
+    },
+    {
+        "sNo": 845,
+        "disease": "Recurrent Breast Cancer"
+    },
+    {
+        "sNo": 846,
+        "disease": "Rem Sleep Behavior Disorder"
+    },
+    {
+        "sNo": 847,
+        "disease": "Renal Artery Stenosis"
+    },
+    {
+        "sNo": 848,
+        "disease": "Respiratory Syncytial Virus"
+    },
+    {
+        "sNo": 849,
+        "disease": "Restless Legs Syndrome"
+    },
+    {
+        "sNo": 850,
+        "disease": "Retinal Detachment"
+    },
+    {
+        "sNo": 851,
+        "disease": "Retinal Diseases"
+    },
+    {
+        "sNo": 852,
+        "disease": "Retinoblastoma"
+    },
+    {
+        "sNo": 853,
+        "disease": "Retractile Testicle"
+    },
+    {
+        "sNo": 854,
+        "disease": "Retrograde Ejaculation"
+    },
+    {
+        "sNo": 855,
+        "disease": "Rett Syndrome"
+    },
+    {
+        "sNo": 856,
+        "disease": "Reyes Syndrome"
+    },
+    {
+        "sNo": 857,
+        "disease": "Rhabdomyosarcoma"
+    },
+    {
+        "sNo": 858,
+        "disease": "Rheumatic Fever"
+    },
+    {
+        "sNo": 859,
+        "disease": "Rheumatoid Arthritis"
+    },
+    {
+        "sNo": 860,
+        "disease": "Rickets"
+    },
+    {
+        "sNo": 861,
+        "disease": "Ringworm Body"
+    },
+    {
+        "sNo": 862,
+        "disease": "Ringworm Scalp"
+    },
+    {
+        "sNo": 863,
+        "disease": "Rosacea"
+    },
+    {
+        "sNo": 864,
+        "disease": "Roseola"
+    },
+    {
+        "sNo": 865,
+        "disease": "Rotator Cuff Injury"
+    },
+    {
+        "sNo": 866,
+        "disease": "Rotavirus"
+    },
+    {
+        "sNo": 867,
+        "disease": "Rubella"
+    },
+    {
+        "sNo": 868,
+        "disease": "Rumination Syndrome"
+    },
+    {
+        "sNo": 869,
+        "disease": "Ruptured Eardrum"
+    },
+    {
+        "sNo": 870,
+        "disease": "Ruptured Spleen"
+    },
+    {
+        "sNo": 871,
+        "disease": "Sacral Dimple"
+    },
+    {
+        "sNo": 872,
+        "disease": "Sacroiliitis"
+    },
+    {
+        "sNo": 873,
+        "disease": "Salivary Gland Cancer"
+    },
+    {
+        "sNo": 874,
+        "disease": "Salmonella"
+    },
+    {
+        "sNo": 875,
+        "disease": "Sarcoidosis"
+    },
+    {
+        "sNo": 876,
+        "disease": "Sarcoma"
+    },
+    {
+        "sNo": 877,
+        "disease": "Sars"
+    },
+    {
+        "sNo": 878,
+        "disease": "Scabies"
+    },
+    {
+        "sNo": 879,
+        "disease": "Scarlet Fever"
+    },
+    {
+        "sNo": 880,
+        "disease": "Schizoaffective Disorder"
+    },
+    {
+        "sNo": 881,
+        "disease": "Schizoid Personality Disorder"
+    },
+    {
+        "sNo": 882,
+        "disease": "Schizophrenia"
+    },
+    {
+        "sNo": 883,
+        "disease": "Schizotypal Personality Disorder"
+    },
+    {
+        "sNo": 884,
+        "disease": "Sciatica"
+    },
+    {
+        "sNo": 885,
+        "disease": "Scleroderma"
+    },
+    {
+        "sNo": 886,
+        "disease": "Sclerosing Mesenteritis"
+    },
+    {
+        "sNo": 887,
+        "disease": "Scoliosis"
+    },
+    {
+        "sNo": 888,
+        "disease": "Scorpion Stings"
+    },
+    {
+        "sNo": 889,
+        "disease": "Scrotal Masses"
+    },
+    {
+        "sNo": 890,
+        "disease": "Seasonal Affective Disorder"
+    },
+    {
+        "sNo": 891,
+        "disease": "Seborrheic Dermatitis"
+    },
+    {
+        "sNo": 892,
+        "disease": "Seborrheic Keratosis"
+    },
+    {
+        "sNo": 893,
+        "disease": "Secondary Hypertension"
+    },
+    {
+        "sNo": 894,
+        "disease": "Seizure"
+    },
+    {
+        "sNo": 895,
+        "disease": "Separation Anxiety Disorder"
+    },
+    {
+        "sNo": 896,
+        "disease": "Sepsis"
+    },
+    {
+        "sNo": 897,
+        "disease": "Serotonin Syndrome"
+    },
+    {
+        "sNo": 898,
+        "disease": "Sex Headaches"
+    },
+    {
+        "sNo": 899,
+        "disease": "Sexually Transmitted Diseases Stds"
+    },
+    {
+        "sNo": 900,
+        "disease": "Shaken Baby Syndrome"
+    },
+    {
+        "sNo": 901,
+        "disease": "Shellfish Allergy"
+    },
+    {
+        "sNo": 902,
+        "disease": "Shigella"
+    },
+    {
+        "sNo": 903,
+        "disease": "Shin Splints"
+    },
+    {
+        "sNo": 904,
+        "disease": "Shingles"
+    },
+    {
+        "sNo": 905,
+        "disease": "Short Bowel Syndrome"
+    },
+    {
+        "sNo": 906,
+        "disease": "Sick Sinus Syndrome"
+    },
+    {
+        "sNo": 907,
+        "disease": "Sickle Cell Anemia"
+    },
+    {
+        "sNo": 908,
+        "disease": "Sinus Headaches"
+    },
+    {
+        "sNo": 909,
+        "disease": "Sjogrens Syndrome"
+    },
+    {
+        "sNo": 910,
+        "disease": "Skin Cancer"
+    },
+    {
+        "sNo": 911,
+        "disease": "Sleep Apnea"
+    },
+    {
+        "sNo": 912,
+        "disease": "Sleep Disorders"
+    },
+    {
+        "sNo": 913,
+        "disease": "Sleep Terrors"
+    },
+    {
+        "sNo": 914,
+        "disease": "Sleepwalking"
+    },
+    {
+        "sNo": 915,
+        "disease": "Small Bowel Cancer"
+    },
+    {
+        "sNo": 916,
+        "disease": "Small Intestinal Bacterial Overgrowth"
+    },
+    {
+        "sNo": 917,
+        "disease": "Small Vessel Disease"
+    },
+    {
+        "sNo": 918,
+        "disease": "Smallpox"
+    },
+    {
+        "sNo": 919,
+        "disease": "Snoring"
+    },
+    {
+        "sNo": 920,
+        "disease": "Social Anxiety Disorder"
+    },
+    {
+        "sNo": 921,
+        "disease": "Soft Palate Cancer"
+    },
+    {
+        "sNo": 922,
+        "disease": "Soft Tissue Sarcoma"
+    },
+    {
+        "sNo": 923,
+        "disease": "Somatic Symptom Disorder"
+    },
+    {
+        "sNo": 924,
+        "disease": "Sore Throat"
+    },
+    {
+        "sNo": 925,
+        "disease": "Specific Phobias"
+    },
+    {
+        "sNo": 926,
+        "disease": "Spermatocele"
+    },
+    {
+        "sNo": 927,
+        "disease": "Spider Bites"
+    },
+    {
+        "sNo": 928,
+        "disease": "Spina Bifida"
+    },
+    {
+        "sNo": 929,
+        "disease": "Spinal Arteriovenous Malformation"
+    },
+    {
+        "sNo": 930,
+        "disease": "Spinal Cord Injury"
+    },
+    {
+        "sNo": 931,
+        "disease": "Spinal Cord Tumor"
+    },
+    {
+        "sNo": 932,
+        "disease": "Spinal Headaches"
+    },
+    {
+        "sNo": 933,
+        "disease": "Spinal Stenosis"
+    },
+    {
+        "sNo": 934,
+        "disease": "Spontaneous Coronary Artery Dissection"
+    },
+    {
+        "sNo": 935,
+        "disease": "Sprained Ankle"
+    },
+    {
+        "sNo": 936,
+        "disease": "Sprains"
+    },
+    {
+        "sNo": 937,
+        "disease": "Squamous Cell Carcinoma"
+    },
+    {
+        "sNo": 938,
+        "disease": "Stage 4 Prostate Cancer"
+    },
+    {
+        "sNo": 939,
+        "disease": "Staph Infections"
+    },
+    {
+        "sNo": 940,
+        "disease": "Stevens Johnson Syndrome"
+    },
+    {
+        "sNo": 941,
+        "disease": "Stickler Syndrome"
+    },
+    {
+        "sNo": 942,
+        "disease": "Stomach Cancer"
+    },
+    {
+        "sNo": 943,
+        "disease": "Stomach Polyps"
+    },
+    {
+        "sNo": 944,
+        "disease": "Strep Throat"
+    },
+    {
+        "sNo": 945,
+        "disease": "Stress Fractures"
+    },
+    {
+        "sNo": 946,
+        "disease": "Stress Incontinence"
+    },
+    {
+        "sNo": 947,
+        "disease": "Stretch Marks"
+    },
+    {
+        "sNo": 948,
+        "disease": "Stroke"
+    },
+    {
+        "sNo": 949,
+        "disease": "Stuttering"
+    },
+    {
+        "sNo": 950,
+        "disease": "Sty"
+    },
+    {
+        "sNo": 951,
+        "disease": "Subconjunctival Hemorrhage"
+    },
+    {
+        "sNo": 952,
+        "disease": "Sudden Cardiac Arrest"
+    },
+    {
+        "sNo": 953,
+        "disease": "Suicide"
+    },
+    {
+        "sNo": 954,
+        "disease": "Sun Allergy"
+    },
+    {
+        "sNo": 955,
+        "disease": "Sunburn"
+    },
+    {
+        "sNo": 956,
+        "disease": "Supraventricular Tachycardia"
+    },
+    {
+        "sNo": 957,
+        "disease": "Suspicious Breast Lumps"
+    },
+    {
+        "sNo": 958,
+        "disease": "Sweating And Body Odor"
+    },
+    {
+        "sNo": 959,
+        "disease": "Swimmers Ear"
+    },
+    {
+        "sNo": 960,
+        "disease": "Swimmers Itch"
+    },
+    {
+        "sNo": 961,
+        "disease": "Swine Flu"
+    },
+    {
+        "sNo": 962,
+        "disease": "Swollen Knee"
+    },
+    {
+        "sNo": 963,
+        "disease": "Swollen Lymph Nodes"
+    },
+    {
+        "sNo": 964,
+        "disease": "Syphilis"
+    },
+    {
+        "sNo": 965,
+        "disease": "Systemic Mastocytosis"
+    },
+    {
+        "sNo": 966,
+        "disease": "Tachycardia"
+    },
+    {
+        "sNo": 967,
+        "disease": "Takayasus Arteritis"
+    },
+    {
+        "sNo": 968,
+        "disease": "Tapeworm"
+    },
+    {
+        "sNo": 969,
+        "disease": "Tay Sachs Disease"
+    },
+    {
+        "sNo": 970,
+        "disease": "Teen Depression"
+    },
+    {
+        "sNo": 971,
+        "disease": "Temporal Lobe Seizure"
+    },
+    {
+        "sNo": 972,
+        "disease": "Tendinitis"
+    },
+    {
+        "sNo": 973,
+        "disease": "Tennis Elbow"
+    },
+    {
+        "No": 974,
+        "dsease": "Tension Headache "
+      },
+    {
+      "sNo": 975,
+      "disease": "Testicular Cancer Care"
+    },
+    {
+      "sNo": 976,
+      "disease": "Testicular Torsion"
+    },
+    {
+      "sNo": 977,
+      "disease": "Tetanus"
+    },
+    {
+      "sNo": 978,
+      "disease": "Tetralogy Of Fallot"
+    },
+    {
+      "sNo": 979,
+      "disease": "Thalassemia"
+    },
+    {
+      "sNo": 980,
+      "disease": "Thoracic Aortic Aneurysm"
+    },
+    {
+      "sNo": 981,
+      "disease": "Thoracic Outlet Syndrome"
+    },
+    {
+      "sNo": 982,
+      "disease": "Throat Cancer"
+    },
+    {
+      "sNo": 983,
+      "disease": "Thrombocytopenia"
+    },
+    {
+      "sNo": 984,
+      "disease": "Thrombocytosis"
+    },
+    {
+      "sNo": 985,
+      "disease": "Thumb Arthritis"
+    },
+    {
+      "sNo": 986,
+      "disease": "Thunderclap Headaches"
+    },
+    {
+      "sNo": 987,
+      "disease": "Thyroid Cancer"
+    },
+    {
+      "sNo": 988,
+      "disease": "Thyroid Nodules"
+    },
+    {
+      "sNo": 989,
+      "disease": "Tinea Versicolor"
+    },
+    {
+      "sNo": 990,
+      "disease": "Tinnitus"
+    },
+    {
+      "sNo": 991,
+      "disease": "Tmj"
+    },
+    {
+      "sNo": 992,
+      "disease": "Toe Walking"
+    },
+    {
+      "sNo": 993,
+      "disease": "Tongue Tie"
+    },
+    {
+      "sNo": 994,
+      "disease": "Tonsil Cancer"
+    },
+    {
+      "sNo": 995,
+      "disease": "Tonsillitis"
+    },
+    {
+      "sNo": 996,
+      "disease": "Tooth Abscess"
+    },
+    {
+      "sNo": 997,
+      "disease": "Torn Meniscus"
+    },
+    {
+      "sNo": 998,
+      "disease": "Tourette Syndrome"
+    },
+    {
+      "sNo": 999,
+      "disease": "Toxic Epidermal Necrolysis"
+    },
+    {
+      "sNo": 1000,
+      "disease": "Toxic Hepatitis"
+    },
+    {
+      "sNo": 1001,
+      "disease": "Toxic Shock Syndrome"
+    },
+    {
+      "sNo": 1002,
+      "disease": "Toxoplasmosis"
+    },
+    {
+      "sNo": 1003,
+      "disease": "Trachoma"
+    },
+    {
+      "sNo": 1004,
+      "disease": "Transient Global Amnesia"
+    },
+    {
+      "sNo": 1005,
+      "disease": "Transient Ischemic Attack"
+    },
+    {
+      "sNo": 1006,
+      "disease": "Transposition Of The Great Arteries"
+    },
+    {
+      "sNo": 1007,
+      "disease": "Transverse Myelitis"
+    },
+    {
+      "sNo": 1008,
+      "disease": "Traumatic Brain Injury"
+    },
+    {
+      "sNo": 1009,
+      "disease": "Travelers Diarrhea"
+    },
+    {
+      "sNo": 1010,
+      "disease": "Trichinosis"
+    },
+    {
+      "sNo": 1011,
+      "disease": "Trichomoniasis"
+    },
+    {
+        "sNo": 1012,
+        "disease": "Trichotillomania"
+    },
+    {
+        "sNo": 1013,
+        "disease": "Tricuspid Atresia"
+    },
+    {
+        "sNo": 1014,
+        "disease": "Tricuspid Valve Regurgitation"
+    },
+    {
+        "sNo": 1015,
+        "disease": "Trigeminal Neuralgia"
+    },
+    {
+        "sNo": 1016,
+        "disease": "Trigger Finger"
+    },
+    {
+        "sNo": 1017,
+        "disease": "Triple X Syndrome"
+    },
+    {
+        "sNo": 1018,
+        "disease": "Truncus Arteriosus"
+    },
+    {
+        "sNo": 1019,
+        "disease": "Tuberculosis"
+    },
+    {
+        "sNo": 1020,
+        "disease": "Tuberous Sclerosis"
+    },
+    {
+        "sNo": 1021,
+        "disease": "Turner Syndrome"
+    },
+    {
+        "sNo": 1022,
+        "disease": "Type 1 Diabetes"
+    },
+    {
+        "sNo": 1023,
+        "disease": "Type 1 Diabetes In Children"
+    },
+    {
+        "sNo": 1024,
+        "disease": "Type 2 Diabetes"
+    },
+    {
+        "sNo": 1025,
+        "disease": "Type 2 Diabetes In Children"
+    },
+    {
+        "sNo": 1026,
+        "disease": "Typhoid"
+    },
+    {
+        "sNo": 1027,
+        "disease": "Typhoid Fever"
+    },
+    {
+        "sNo": 1028,
+        "disease": "Ulcerative Colitis"
+    },
+    {
+        "sNo": 1029,
+        "disease": "Umbilical Hernia"
+    },
+    {
+        "sNo": 1030,
+        "disease": "Undescended Testicle"
+    },
+    {
+        "sNo": 1031,
+        "disease": "Undifferentiated Pleomorphic Sarcoma"
+    },
+    {
+        "sNo": 1032,
+        "disease": "Ureteral Cancer"
+    },
+    {
+        "sNo": 1033,
+        "disease": "Ureteral Obstruction"
+    },
+    {
+        "sNo": 1034,
+        "disease": "Urethral Stricture"
+    },
+    {
+        "sNo": 1035,
+        "disease": "Urinary Tract Infection"
+    },
+    {
+        "sNo": 1036,
+        "disease": "Urine Color"
+    },
+    {
+        "sNo": 1037,
+        "disease": "Uterine Fibroids"
+    },
+    {
+        "sNo": 1038,
+        "disease": "Uterine Polyps"
+    },
+    {
+        "sNo": 1039,
+        "disease": "Uterine Prolapse"
+    },
+    {
+        "sNo": 1040,
+        "disease": "Uveitis"
+    },
+    {
+        "sNo": 1041,
+        "disease": "Vaginal Agenesis"
+    },
+    {
+        "sNo": 1042,
+        "disease": "Vaginal Atrophy"
+    },
+    {
+        "sNo": 1043,
+        "disease": "Vaginal Cancer"
+    },
+    {
+        "sNo": 1044,
+        "disease": "Vaginitis"
+    },
+    {
+        "sNo": 1045,
+        "disease": "Valley Fever"
+    },
+    {
+        "sNo": 1046,
+        "disease": "Varicocele"
+    },
+    {
+        "sNo": 1047,
+        "disease": "Varicose Veins"
+    },
+    {
+        "sNo": 1048,
+        "disease": "Vascular Dementia"
+    },
+    {
+        "sNo": 1049,
+        "disease": "Vasculitis"
+    },
+    {
+        "sNo": 1050,
+        "disease": "Vasovagal Syncope"
+    },
+    {
+        "sNo": 1051,
+        "disease": "Ventricular Fibrillation"
+    },
+    {
+        "sNo": 1052,
+        "disease": "Ventricular Septal Defect"
+    },
+    {
+        "sNo": 1053,
+        "disease": "Ventricular Tachycardia"
+    },
+    {
+        "sNo": 1054,
+        "disease": "Vertebral Tumor"
+    },
+    {
+        "sNo": 1055,
+        "disease": "Vertigo"
+    },
+    {
+        "sNo": 1056,
+        "disease": "Vesicoureteral Reflux"
+    },
+    {
+        "sNo": 1057,
+        "disease": "Viral Gastroenteritis"
+    },
+    {
+        "sNo": 1058,
+        "disease": "Viral Hemorrhagic Fevers"
+    },
+    {
+        "sNo": 1059,
+        "disease": "Vitamin Deficiency Anemia"
+    },
+    {
+        "sNo": 1060,
+        "disease": "Vitiligo"
+    },
+    {
+        "sNo": 1061,
+        "disease": "Vocal Cord Paralysis"
+    },
+    {
+        "sNo": 1062,
+        "disease": "Von Willebrand Disease"
+    },
+    {
+        "sNo": 1063,
+        "disease": "Vulvar Cancer"
+    },
+    {
+        "sNo": 1064,
+        "disease": "Vulvodynia"
+    },
+    {
+        "sNo": 1065,
+        "disease": "Waldenstrom Macroglobulinemia"
+    },
+    {
+        "sNo": 1066,
+        "disease": "Wet Macular Degeneration"
+    },
+    {
+        "sNo": 1067,
+        "disease": "Wheat Allergy"
+    },
+    {
+        "sNo": 1068,
+        "disease": "Whiplash"
+    },
+    {
+        "sNo": 1069,
+        "disease": "Whipples Disease"
+    },
+    {
+        "sNo": 1070,
+        "disease": "Whooping Cough"
+    },
+    {
+        "sNo": 1071,
+        "disease": "Wilms Tumor"
+    },
+    {
+        "sNo": 1072,
+        "disease": "Wilsons Disease"
+    },
+    {
+        "sNo": 1073,
+        "disease": "Wisdom Teeth"
+    },
+    {
+        "sNo": 1074,
+        "disease": "Wolff Parkinson White Syndrome"
+    },
+    {
+        "sNo": 1075,
+        "disease": "Wrinkles"
+    },
+    {
+        "sNo": 1076,
+        "disease": "Wrist Pain"
+    },
+    {
+        "sNo": 1077,
+        "disease": "X Linked Agammaglobulinemia"
+    },
+    {
+        "sNo": 1078,
+        "disease": "Yeast Infection"
+    },
+    {
+        "sNo": 1079,
+        "disease": "Yips"
+    },
+    {
+        "sNo": 1080,
+        "disease": "Zika Virus"
+    },
+    {
+        "sNo": 1081,
+        "disease": "Zollinger Ellison Syndrome"
+    }
+]        

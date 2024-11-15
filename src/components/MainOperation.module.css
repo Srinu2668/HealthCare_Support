@@ -1,0 +1,134 @@
+.collector
+{
+  width:36rem;
+  height: 10rem;
+  padding: 0px;
+}
+.sender
+{
+  width: 30rem;
+}
+.symtoms_list
+{
+    height:100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+
+    overflow-y: scroll; /* Enable vertical scrolling */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    scrollbar-width: none; /* Firefox */
+}
+  
+ .symtoms_list::-webkit-scrollbar {
+    display: none; 
+} 
+
+.sear_list{
+  max-height:120px;
+  width: 23.5rem;
+  border-radius: 10px;
+  margin-top: 5px;
+  position: absolute;
+  z-index: 1;
+  background-color: rgb(225, 225, 225);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.sym
+{
+  height: 20px;
+  width: auto;
+  margin-top:5px;
+  margin-bottom: 5px;
+  padding: 10px 15px 12px 15px;
+  border-radius:5px;
+  cursor: pointer;
+  position: relative;
+}
+.sym p
+{
+  height: 100%;
+  margin: 0px;
+  padding:0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dele_Icon
+{
+  height: 15px;
+  width: 15px;
+  position: absolute;
+  top: -6px;
+  right: -7px;
+  color: red;
+}
+.dele_Icon:hover
+{
+  scale: 1.5;
+}
+
+
+@media (max-width: 865px) {
+    .sender,.collector {
+      width:30rem;
+    }
+  } 
+@media (max-width: 730px) {
+    .sender,.collector {
+      width:26rem;
+    }
+    .sear_list
+    {
+      width: 19.5rem;
+    }
+  }
+@media (max-width:610px) {
+    .sender,.collector {
+      width:20rem;
+    }
+    .sear_list
+    {
+      width: 17rem;
+    }
+  }  
+@media (max-width: 510px) {
+    .sender,.collector {
+      width:18rem;
+    }
+  } 
+@media (max-width: 475px) {
+    .sender,.collector {
+      width:15rem;
+    }
+    .sear_list{
+      width:13.5rem;
+    }
+    .warnPara
+    {
+      height: 10px;
+    }
+  } 
+
+
+  .scrollable_container {
+    overflow-y: scroll; /* Enable vertical scrolling */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    scrollbar-width: none; /* Firefox */
+  }
+  
+  .scrollable_container::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }

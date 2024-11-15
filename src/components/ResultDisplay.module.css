@@ -1,0 +1,87 @@
+.result_container
+{
+    min-height: 300px;
+    height: auto;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua; */
+}
+.precautions_Container
+{
+    width: auto;
+    min-height: 260px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.showbutton
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    background-color: rgb(50, 250, 50);
+    animation: anime 0.75s ease-in-out infinite;
+}
+@keyframes anime
+{
+    from
+    {
+        background-color:  rgb(30, 200, 30);
+    }
+    to
+    {
+        scale: 1.1;
+        background-color:  rgb(50, 250, 50);
+    }
+}
+.medicine_checker
+{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.medicine_shower
+{
+    min-height: 100px;
+    height: 100%;
+    width: auto;
+}
+
+.medicine_shower input
+{
+    width: 140px;
+    height: 22px;
+}
+.from_age
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formInput
+{
+    padding-left:5px;
+    margin:0px 25px;
+    outline:none;
+    border-radius:3px;
+    border: none;
+    background-color:rgba(235, 235, 235);
+}
+@media (max-width: 475px) {
+    .precaut
+    {
+        font-size: 12px;
+    }
+} 

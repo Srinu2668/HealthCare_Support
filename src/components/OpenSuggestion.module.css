@@ -1,0 +1,103 @@
+.open_Suggestion_container
+{
+    height: 100vh;
+    width: 40%;
+    position: relative;
+    animation: slide 1s ease-in 1;
+}
+  
+@keyframes slide
+{
+    from
+    {
+        width: 0%;
+    }
+    to
+    {
+        width:40%;
+        left: 0px;
+    }
+}
+.close
+{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    height: 26px;
+    width: 26px;
+    color: white;
+    cursor: pointer;
+}
+.suggestion_Main
+{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    display: flex;
+    color: rgba(50, 50, 50);
+    flex-direction: column;
+
+}
+.border
+{
+    height: 58px;
+    width: 100%;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.8);
+    margin-bottom: 20px;
+}
+.symtoms_container
+{
+    flex-grow: 1;
+    padding: 10px 5px;
+}
+.symtoms_list
+{
+    height:500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+    padding: 5px;
+
+    overflow-y: scroll; /* Enable vertical scrolling */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    scrollbar-width: none; /* Firefox */
+}
+  
+ .symtoms_list::-webkit-scrollbar {
+    display: none; 
+} 
+
+
+.sym
+{
+    height:auto;
+    width: auto;
+    padding: 0px 5px 2px 5px;
+    border-radius:5px;
+    cursor: pointer;
+    color: white;
+}
+.sym p
+{
+    height: 100%;
+    margin: 0px;
+    padding:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 475px) {
+    .open_Suggestion_container {
+      width: 220px;
+    }
+    .symtoms_list
+    {
+        height:650px;
+    }
+} 
+
+
+

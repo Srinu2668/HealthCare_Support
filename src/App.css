@@ -1,0 +1,11 @@
+.main_Container
+{
+  width:100%;
+  min-height:100vh;
+  height:auto;
+  display: flex;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}

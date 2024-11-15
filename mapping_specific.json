@@ -1,0 +1,411 @@
+[
+    {
+      "sNo": 0,
+      "disease": "(Vertigo) Paroymsal Positional Vertigo",
+      "precautions":[
+        "Perform canalith repositioning maneuvers (Epley maneuver).",
+        "Take medications to reduce dizziness (meclizine).",
+        "Avoid sudden head movements.",
+        "Physical therapy (vestibular rehabilitation)."]
+    },
+    {
+        "sNo": 7,
+        "disease": "Acne",
+        "precautions":[
+            "Use topical treatments (benzoyl peroxide, salicylic acid).",
+            "Cleanse face twice daily with a gentle cleanser.",
+            "Avoid picking or squeezing pimples to prevent scarring.",
+            "Follow a healthy diet, avoiding high-sugar and dairy products if they aggravate acne."
+        ]
+    },
+    {
+        "sNo": 27,
+        "disease": "Aids",
+        "precautions":[
+            "Start antiretroviral therapy (ART) early.",
+            "Maintain a healthy diet and lifestyle.",
+            "Regularly monitor CD4 count and viral load.",
+            "Prevent opportunistic infections with prophylactic medications."
+        ]
+    },
+    {
+        "sNo": 33,
+        "disease": "Alcoholic Hepatitis",
+        "precautions":[
+            "Immediate cessation of alcohol consumption.",
+            "Nutritional support (thiamine, folate).",
+            "Corticosteroids in severe cases.",
+            "Liver transplant for end-stage liver disease."
+        ]
+    },
+    {
+        "sNo": 35,
+        "disease": "Allergy",
+        "precautions":[
+            "Take antihistamines or corticosteroids.",
+            "Identify and avoid allergens (e.g., pollen, pet dander).",
+            "Use air purifiers at home.",
+            "Consider allergy shots (immunotherapy) for long-term relief."
+        ]
+    },
+    {
+        "sNo": 75,
+        "disease": "Aspergillosis",
+        "precautions":[
+            "Avoid dusty areas, moldy environments, and gardening.",
+            "Use HEPA air filters and reduce indoor allergens.",
+            "Discuss preventive antifungal medication if you're at high risk.",
+            "Watch for cough, fever, chest pain, or shortness of breath."
+        ]
+    },
+    {
+        "sNo": 149,
+        "disease": "Bronchial Asthma",
+        "precautions":[
+            "Use inhalers (bronchodilators or corticosteroids).",
+            "Avoid triggers (dust, smoke, allergens).",
+            "Use air purifiers to reduce indoor allergens.",
+            "Follow an asthma action plan with your healthcare provider."
+        ]
+    },
+    {
+        "sNo": 186,
+        "disease": "Cervical Spondylosis",
+        "precautions":[
+            "Physical therapy to improve neck mobility.",
+            "Use NSAIDs or muscle relaxants for pain relief.",
+            "Maintain good posture and avoid strain on the neck.",
+            "Apply hot or cold compresses to reduce pain and inflammation."
+        ]
+    },
+    {
+        "sNo": 193,
+        "disease": "Chicken Pox",
+        "precautions":[
+            "Use calamine lotion to relieve itching.",
+            "Take antiviral medications (acyclovir) if severe.",
+            "Stay hydrated and rest.",
+            "Avoid scratching to prevent scarring and secondary infections."
+        ]
+    },
+    {
+        "sNo": 207,
+        "disease": "Chronic Cholestasis",
+        "precautions":[
+            "Take ursodeoxycholic acid (UDCA) to improve bile flow.",
+            "Follow a low-fat diet.",
+            "Supplement with fat-soluble vitamins (A, D, E, K).",
+            "Avoid alcohol and certain medications that may worsen liver function."
+        ]
+    },
+    {
+        "sNo": 234,
+        "disease": "Common Cold",
+        "precautions":[
+            "Rest and drink plenty of fluids.",
+            "Use over-the-counter decongestants or antihistamines.",
+            "Gargle with saltwater for sore throat relief.",
+            "Practice good hygiene to prevent spread."
+        ]
+    },
+    {
+        "sNo": 275,
+        "disease": "Dengue",
+        "precautions":[
+            "Stay hydrated to prevent dehydration.",
+            "Use acetaminophen (not NSAIDs) for pain and fever.",
+            "Monitor for signs of severe dengue (bleeding, low platelets).",
+            "Prevent mosquito bites by using repellent and wearing protective clothing."
+        ]
+    },
+    {
+        "sNo": 285,
+        "disease": "Diabetes ",
+        "precautions":[
+            "Manage blood sugar levels with insulin or oral medications.",
+            "Follow a balanced diet low in refined carbohydrates.",
+            "Regularly monitor blood glucose levels.",
+            "Exercise regularly to improve insulin sensitivity."
+        ]
+    },
+    {
+        "sNo": 297,
+        "disease": "Dimorphic Hemmorhoids(Piles)",
+        "precautions":[
+            "Increase fiber intake to prevent constipation.",
+            "Use topical treatments (creams or suppositories).",
+            "Take sitz baths to reduce discomfort.",
+            "Consider surgical intervention for severe cases."
+        ]
+    },
+    {
+        "sNo": 308,
+        "disease": "Drug Reaction",
+        "precautions":[
+            "Stop the offending drug immediately.",
+            "Take antihistamines or corticosteroids for allergic reactions.",
+            "Monitor for severe symptoms like difficulty breathing or swelling.",
+            "Consult a doctor for alternative medications."
+        ]
+    },
+    {
+        "sNo": 394,
+        "disease": "Fungal Infection",
+        "precautions":[
+            "Use antifungal creams or oral medications.",
+            "Keep the affected area dry and clean.",
+            "Wear loose, breathable clothing.",
+            "Strengthen immune system with a healthy diet."
+        ]
+    },
+    {
+        "sNo": 402,
+        "disease": "Gastroenteritis",
+        "precautions":[
+            "Stay hydrated with oral rehydration salts (ORS) or electrolyte drinks.",
+            "Avoid solid foods until vomiting subsides.",
+            "Take probiotics to restore gut flora.",
+            "Practice good hygiene to prevent spread."
+        ]
+    },
+    {
+        "sNo": 412,
+        "disease": "Gerd",
+        "precautions":[
+            "Avoid trigger foods (spicy, acidic, fatty).",
+            "Eat smaller, more frequent meals.",
+            "Use proton pump inhibitors (PPIs) or antacids.",
+            "Elevate the head during sleep to prevent reflux."
+        ]
+    },
+    {
+        "sNo": 447,
+        "disease": "Heart Attack",
+        "precautions":[
+            "Immediate medical intervention (aspirin, nitroglycerin).",
+            "Follow a heart-healthy diet (low-fat, low-sodium).",
+            "Regular cardiovascular exercise.",
+            "Take prescribed medications (statins, beta-blockers)."
+        ]
+    },
+    {
+        "sNo": 464,
+        "disease": "Hepatitis A",
+        "precautions":[
+            "Rest and stay hydrated.",
+            "Follow a liver-friendly diet (low-fat, low-salt).",
+            "Avoid alcohol and hepatotoxic drugs.",
+            "Get vaccinated to prevent future infections."
+        ]
+    },
+    {
+        "sNo": 465,
+        "disease": "Hepatitis B",
+        "precautions":[
+            "Antiviral therapy (tenofovir, entecavir) for chronic cases.",
+            "Regular liver function monitoring.",
+            "Avoid alcohol to prevent liver damage.",
+            "Vaccination for prevention if not already infected."
+        ]
+    },
+    {
+        "sNo": 466,
+        "disease": "Hepatitis C",
+        "precautions":[
+            "Direct-acting antivirals (DAAs) for cure.",
+            "Monitor liver health with regular check-ups.",
+            "Avoid alcohol and liver-toxic drugs.",
+            "Get screened for liver cancer in chronic cases."
+        ]
+    },
+    {
+        "sNo": 467,
+        "disease": "Hepatitis D",
+        "precautions":[
+            "Antiviral treatment (pegylated interferon).",
+            "Monitor liver function regularly.",
+            "Avoid alcohol and maintain liver health.",
+            "Consider vaccination for hepatitis B (since HDV requires HBV for infection)."
+        ]
+    },
+    {
+        "sNo": 468,
+        "disease": "Hepatitis E",
+        "precautions":[
+            "Rest and hydration; typically self-limiting.",
+            "Avoid fatty foods to ease liver function.",
+            "Maintain good sanitation to prevent the spread.",
+            "Monitor liver function, especially in pregnant women."
+        ]
+    },
+    {
+        "sNo": 501,
+        "disease": "Hypertension ",
+        "precautions":[
+            "Reduce sodium intake.",
+            "Exercise regularly to maintain heart health.",
+            "Take prescribed antihypertensive medications.",
+            "Reduce stress through relaxation techniques."
+        ]
+    },
+    {
+        "sNo": 502,
+        "disease": "Hyperthyroidism",
+        "precautions":[
+            "Take antithyroid medications (methimazole, propylthiouracil).",
+            "Radioactive iodine therapy for severe cases.",
+            "Avoid excessive iodine intake.",
+            "Regular thyroid function tests."
+        ]
+    },
+    {
+        "sNo": 504,
+        "disease": "Hypoglycemia",
+        "precautions":[
+            "Consume fast-acting carbohydrates (glucose tablets, juice).",
+            "Eat regular meals with balanced macronutrients.",
+            "Monitor blood sugar levels closely.",
+            "Carry emergency glucose at all times."
+        ]
+    },
+    {
+        "sNo": 511,
+        "disease": "Hypothyroidism",
+        "precautions":[
+            "Take thyroid hormone replacement (levothyroxine).",
+            "Regular thyroid function monitoring.",
+            "Eat a balanced diet with sufficient iodine.",
+            "Exercise regularly to maintain a healthy weight."
+        ]
+    },
+    {
+        "sNo": 515,
+        "disease": "Impetigo",
+        "precautions":[
+            "Apply topical antibiotics (mupirocin).",
+            "Keep affected area clean and covered.",
+            "Avoid touching or scratching the lesions to prevent spread.",
+            "Practice good hygiene, such as regular handwashing."
+        ]
+    },
+    {
+        "sNo": 541,
+        "disease": "Jaundice",
+        "precautions":[
+            "Treat underlying liver disease (e.g., hepatitis, cirrhosis).",
+            "Follow a low-fat, liver-friendly diet.",
+            "Stay hydrated and avoid alcohol.",
+            "Regular blood tests to monitor liver function."
+        ]
+    },
+    {
+        "sNo": 596,
+        "disease": "Malaria",
+        "precautions":[
+            "Take antimalarial medications (chloroquine, artemisinin-based therapies).",
+            "Use insect repellent and sleep under mosquito nets.",
+            "Avoid mosquito-prone areas, especially at dusk.",
+            "Complete the full course of treatment to prevent recurrence."
+        ]
+    },
+    {
+        "sNo": 630,
+        "disease": "Migraine",
+        "precautions":[
+            "Use triptans or NSAIDs for pain relief.",
+            "Avoid known triggers (certain foods, stress).",
+            "Maintain a regular sleep schedule.",
+            "Practice relaxation techniques like yoga or meditation."
+        ]
+    },
+    {
+        "sNo": 700,
+        "disease": "Osteoarthristis",
+        "precautions":[
+            "Use NSAIDs for pain management.",
+            "Engage in low-impact exercises (swimming, walking).",
+            "Physical therapy to improve joint function.",
+            "Weight management to reduce joint stress."
+        ]
+    },
+    {
+        "sNo": 718,
+        "disease": "Paralysis (Brain Hemorrhage)",
+        "precautions":[
+            "Immediate medical attention and rehabilitation (physical therapy).",
+            "Anticoagulants or surgical intervention if necessary.",
+            "Occupational therapy to regain independence in daily activities.",
+            "Supportive care (speech therapy, mobility aids)."
+        ]
+    },
+    {
+        "sNo": 735,
+        "disease": "Peptic Ulcer Diseae",
+        "precautions":[
+            "Take proton pump inhibitors (PPIs) or H2 blockers.",
+            "Avoid NSAIDs (aspirin, ibuprofen).",
+            "Reduce stress and avoid smoking.",
+            "Follow a diet low in acidic and spicy foods."
+        ]
+    },
+    {
+        "sNo": 766,
+        "disease": "Pneumonia",
+        "precautions":[
+            "Take prescribed antibiotics or antiviral medications.",
+            "Use a humidifier to ease breathing.",
+            "Drink plenty of fluids to loosen mucus.",
+            "Get vaccinated (pneumococcal and flu vaccines)."
+        ]
+    },
+    {
+        "sNo": 822,
+        "disease": "Psoriasis",
+        "precautions":[
+            "Use topical corticosteroids or vitamin D analogs.",
+            "Stay hydrated and moisturize skin regularly.",
+            "Light therapy (UVB) for moderate to severe cases.",
+            "Avoid triggers such as stress, smoking, and alcohol."
+        ]
+    },
+    {
+        "sNo": 1019,
+        "disease": "Tuberculosis",
+        "precautions":[
+            "Take a full course of antibiotics (rifampicin, isoniazid).",
+            "Regular sputum tests to monitor treatment progress.",
+            "Isolate to prevent transmission until non-contagious.",
+            "Maintain proper nutrition to support immune function."
+        ]
+    },
+    {
+        "sNo": 1026,
+        "disease": "Typhoid",
+        "precautions":[
+            "Complete a course of antibiotics (ciprofloxacin, azithromycin).",
+            "Ensure proper hydration and rest.",
+            "Follow good hygiene to prevent reinfection.",
+            "Eat light, digestible foods during recovery."
+        ]
+    },
+    {
+        "sNo": 1035,
+        "disease": "Urinary Tract Infection",
+        "precautions":[
+            "Take prescribed antibiotics to eliminate infection.",
+            "Drink plenty of water to flush bacteria from the urinary tract.",
+            "Urinate frequently and after sexual activity.",
+            "Avoid irritants such as caffeine, alcohol, and spicy foods."
+        ]
+    },
+    {
+        "sNo": 1047,
+        "disease": "Varicose Veins",
+        "precautions":[
+            "Use compression stockings to improve circulation.",
+            "Avoid prolonged standing or sitting.",
+            "Elevate legs when resting.",
+            "Consider sclerotherapy or laser treatment if severe."
+        ]
+    }
+]        

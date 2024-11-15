@@ -1,0 +1,42 @@
+.initial_rotate
+{
+  transform:rotate(0deg);
+  animation: rotating1 0.3s ease-in 1;
+}
+.final_rotate
+{
+  transform:rotate(60deg);
+  animation: rotating 0.3s ease-in 1;
+}
+.lane
+{
+  padding:0px;
+  margin:0px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  column-gap: 30px;
+
+}
+@keyframes rotating1
+{
+  from
+  {
+    transform:rotate(0deg);
+  }
+  to
+  {
+    transform:rotate(60deg);
+  }
+}
+@keyframes rotating
+{
+  from
+  {
+    transform:rotate(60deg);
+  }
+  to
+  {
+    transform:rotate(0deg);
+  }
+}

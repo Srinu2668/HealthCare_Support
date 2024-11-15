@@ -1,0 +1,1034 @@
+[
+    {
+        "symptom": "abdominal pain",
+        "age":{
+            "child":"Acetaminophen (Tylenol)",
+            "adult":"Ibuprofen (Advil, Motrin)",
+            "senior_citizen":"Naproxen sodium (Aleve)"
+        }
+    },
+    {
+        "symptom": "abnormal menstruation",
+        "age":{
+            "child":"Underlying Medical Conditions",
+            "adult":"Hormonal Birth Control",
+            "senior_citizen":"Medications for Underlying Conditions"
+        }
+    },
+    {
+        "symptom": "acidity",
+        "age":{
+            "child":"Antacids",
+            "adult":"Antacids",
+            "senior_citizen":"Antacids"
+        }
+    },
+    {
+        "symptom": "acute liver failure",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "altered sensorium",
+        "age":{
+            "child":"Underlying medical issue",
+            "adult":"Underlying medical issue",
+            "senior_citizen":"Underlying medical issue" 
+        }
+    },
+    {
+        "symptom": "anxiety",
+        "age":{
+            "child":"Cognitive-Behavioral Therapy",
+            "adult":"Medication",
+            "senior_citizen":"Cognitive-Behavioral Therapy and Medication"
+        }
+    },
+    {
+        "symptom": "back pain",
+        "age":{
+            "child":"Rest and Ice",
+            "adult":"Acetaminophen",
+            "senior_citizen":"naproxen sodium or Good to Consult a Doctor"
+        }
+    },
+    {
+        "symptom": "belly pain",
+        "age":{
+            "child":"Good to consult a Doctor",
+            "adult":"Antispasmodics",
+            "senior_citizen":"Antispasmodics"
+        }
+    },
+    {
+        "symptom": "blackheads",
+        "age":{
+            "child":"Benzoyl peroxide",
+            "adult":"Salicylic acid",
+            "senior_citizen":"Salicylic acid" 
+        }
+    },
+    {
+        "symptom": "bladder discomfort",
+        "age":{
+            "child":"Good to consult a Doctor",
+            "adult":"Beta-3 agonists",
+            "senior_citizen":"Beta-3 agonists" 
+        }
+    },
+    {
+        "symptom": "blister",
+        "age":{
+            "child":"Acetaminophen",
+            "adult":"antihistamines",
+            "senior_citizen":"antihistamines" 
+        }
+    },
+    {
+        "symptom": "blood in sputum",
+        "age":{
+            "child":"Antibiotics",
+            "adult":"Antibiotics",
+            "senior_citizen":"Antibiotics"
+        }
+    },
+    {
+        "symptom": "bloody stool",
+        "age":{
+            "child":"Consult a pediatrician.",
+            "adult":"doctor can assess your risk factors.",
+            "senior_citizen":"doctor can assess your risk factors."
+        }
+    },
+    {
+        "symptom": "blurred and distorted vision",
+        "age":{
+            "child":"Better to concern Eye Specialist",
+            "adult":"Better to concern Eye Specialist",
+            "senior_citizen":"Better to concern Eye Specialist"
+        }
+    },
+    {
+        "symptom": "breathlessness",
+        "age":{
+            "child":"Inhalers or Oral Medications",
+            "adult":"Inhalers or Oral Medications",
+            "senior_citizen":"Inhalers or Oral Medications"
+        }
+    },
+    {
+        "symptom": "brittle nails",
+        "age":{
+            "child":"Biotin",
+            "adult":"Biotin and regular follow Diet",
+            "senior_citizen":"Biotin and Nail Care"
+        }
+    },
+    {
+        "symptom": "bruising",
+        "age":{
+            "child":"Arnica",
+            "adult":"Vitamin K",
+            "senior_citizen":"Bromelain"
+        }
+    },
+    {
+        "symptom": "burning micturition",
+        "age":{
+            "child":"Augmentin",
+            "adult":"Phenazopyridine",
+            "senior_citizen":"phenazopyridine"
+        }
+    },
+    {
+        "symptom": "chest pain",
+        "age":{
+            "child":"paracetamol",
+            "adult":"Nitroglycerin",
+            "senior_citizen":"Aspirin"
+        }
+    },
+    {
+        "symptom": "chills",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"acetaminophen",
+            "senior_citizen":"acetaminophen"
+        }
+    },
+    {
+        "symptom": "cold hands and feets",
+        "age":{
+            "child":"Calcium channel blockers",
+            "adult":"Alpha-blockers",
+            "senior_citizen":"Alpha-blockers"
+        }
+    },
+    {
+        "symptom": "coma",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "constipation",
+        "age":{
+            "child":"laxatives",
+            "adult":"Osmotic laxatives",
+            "senior_citizen":"Osmotic laxatives"
+        }
+    },
+    {
+        "symptom": "continuous feel of urine",
+        "age":{
+            "child":"Oxybutynin link (Ditropan)",
+            "adult":"Anticholinergics",
+            "senior_citizen":"Anticholinergics"
+        }
+    },
+    {
+        "symptom": "continuous sneezing",
+        "age":{
+            "child":"Antihistamines",
+            "adult":"NyQuil Cold ",
+            "senior_citizen":"chlorpheniramine"
+        }
+    },
+    {
+        "symptom": "cough",
+        "age":{
+            "child":"Mucolytics",
+            "adult":"Antitussives",
+            "senior_citizen":"Dextromethorphan"
+        }
+    },
+    {
+        "symptom": "cramps",
+        "age":{
+            "child":"acetaminophen",
+            "adult":"ibuprofen",
+            "senior_citizen":"acetaminophen"
+        }
+    },
+    {
+        "symptom": "dark urine",
+        "age":{
+            "child":"Chloroquine",
+            "adult":"metronidazole",
+            "senior_citizen":"metronidazole"
+        }
+    },
+    {
+        "symptom": "dehydration",
+        "age":{
+            "child":"Fluids and Electrolytes",
+            "adult":"Fluids and Electrolytes",
+            "senior_citizen":"Fluids and Electrolytes"
+        }
+    },
+    {
+        "symptom": "depression",
+        "age":{
+            "child":"Therapy",
+            "adult":"Therapy",
+            "senior_citizen":"Therapy"
+        }
+    },
+    {
+        "symptom": "diarrhoea",
+        "age":{
+            "child":"Loperamide",
+            "adult":"Alosetron",
+            "senior_citizen":"loperamide"
+        }
+    },
+    {
+        "symptom": "dischromic patches",
+        "age":{
+            "child":"Hydroquinone and tretinoin",
+            "adult":"Hydroquinone and tretinoin",
+            "senior_citizen":"Hydroquinone and tretinoin"
+        }
+    },
+    {
+        "symptom": "distention of abdomen",
+        "age":{
+            "child":"Simethicone",
+            "adult":"Simethicone",
+            "senior_citizen":"Simethicone"
+        }
+    },
+    {
+        "symptom": "dizziness",
+        "age":{
+            "child":"Medication, including antibiotics, decongestants or antihistamines for fluid in the ear.",
+            "adult":"Antihistamines",
+            "senior_citizen":"Antihistamines"
+        }
+    },
+    {
+        "symptom": "drying and tingling lips",
+        "age":{
+            "child":"hypoallergenic lip balm",
+            "adult":"Fragrance-free.",
+            "senior_citizen":"hypoallergenic lip balm"
+        }
+    },
+    {
+        "symptom": "enlarged thyroid",
+        "age":{
+            "child":"Hyperthyroidism",
+            "adult":"methimazole",
+            "senior_citizen":"metoprolol"
+        }
+    },
+    {
+        "symptom": "excessive hunger",
+        "age":{
+            "child":"Hunger Oral Drops",
+            "adult":"Megestrol",
+            "senior_citizen":"Appetite"
+        }
+    },
+    {
+        "symptom": "extra marital contacts",
+        "age":{
+            "child":"",
+            "adult":"better to concern therapist",
+            "senior_citizen":"better to concern therapist"
+        }
+    },
+    {
+        "symptom": "family history",
+        "age":{
+            "child":"",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "fast heart rate",
+        "age":{
+            "child":"Antiarrhythmic",
+            "adult":"Antiarrhythmic",
+            "senior_citizen":"Antiarrhythmic"
+        }
+    },
+    {
+        "symptom": "fatigue",
+        "age":{
+            "child":"Antihistamines",
+            "adult":"Antidepressants",
+            "senior_citizen":"Antidepressants"
+        }
+    },
+    {
+        "symptom": "fluid overload",
+        "age":{
+            "child":"Diuretics",
+            "adult":"Diuretics",
+            "senior_citizen":"Diuretics"
+        }
+    },
+    {
+        "symptom": "foul smell of urine",
+        "age":{
+            "child":"Antibiotics",
+            "adult":"Antibiotics",
+            "senior_citizen":"Antibiotics"
+        }
+    },
+    {
+        "symptom": "headache",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"Aspirin",
+            "senior_citizen":"Naproxen and hydroxyzine"
+        }
+    },
+    {
+        "symptom": "high fever",
+        "age":{
+            "child":"Acetaminophen",
+            "adult":"Acetaminophen",
+            "senior_citizen":"Acetaminophen"
+        }
+    },
+    {
+        "symptom": "hip joint pain",
+        "age":{
+            "child":"acetaminophen",
+            "adult":"acetaminophen",
+            "senior_citizen":"Naproxen sodium"
+        }
+    },
+    {
+        "symptom": "history of alcohol consumption",
+        "age":{
+            "child":"",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "increased appetite",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "indigestion",
+        "age":{
+            "child":"Pepcid AC ",
+            "adult":"Antacids",
+            "senior_citizen":"Antacids"
+        }
+    },
+    {
+        "symptom": "inflammatory nails",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"Bactroban",
+            "senior_citizen":"Bactroban"
+        }
+    },
+    {
+        "symptom": "internal itching",
+        "age":{
+            "child":"Antihistamines",
+            "adult":"Claritin",
+            "senior_citizen":"Corticosteroids"
+        }
+    },
+    {
+        "symptom": "irregular sugar level",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "irritability",
+        "age":{
+            "child":"Antiepileptic drugs",
+            "adult":"Aripiprazole",
+            "senior_citizen":"oxazepam"
+        }
+    },
+    {
+        "symptom": "irritation in anus",
+        "age":{
+            "child":"Balmex",
+            "adult":"Balmex",
+            "senior_citizen":"Balmex"
+        }
+    },
+    {
+        "symptom": "itching",
+        "age":{
+            "child":"Aveeno Anti-Itch Concentrated Lotion",
+            "adult":"Oral antihistamines",
+            "senior_citizen":"nonprescription corticosteroid cream"
+        }
+    },
+    {
+        "symptom": "joint pain",
+        "age":{
+            "child":"Nonsteroidal anti-inflammatory drugs",
+            "adult":"Nonsteroidal anti-inflammatory drugs",
+            "senior_citizen":"Acetaminophen"
+        }
+    },
+    {
+        "symptom": "knee pain",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"Tylenol",
+            "senior_citizen":"naproxen sodium"
+        }
+    },
+    {
+        "symptom": "lack of concentration",
+        "age":{
+            "child":"play games",
+            "adult":"donepezil",
+            "senior_citizen":"donepezil"
+        }
+    },
+    {
+        "symptom": "lethargy",
+        "age":{
+            "child":"Armodafinil",
+            "adult":"Armodafinil",
+            "senior_citizen":"Armodafinil"
+        }
+    },
+    {
+        "symptom": "loss of appetite",
+        "age":{
+            "child":"Carnation Instant Breakfast",
+            "adult":"megestrol and dronabinol",
+            "senior_citizen":"Mirtazapine"
+        }
+    },
+    {
+        "symptom": "loss of balance",
+        "age":{
+            "child":"Antihistamines",
+            "adult":"Antihistamines",
+            "senior_citizen":"Gentamicin"
+        }
+    },
+    {
+        "symptom": "loss of smell",
+        "age":{
+            "child":"Allergies",
+            "adult":"Allergies",
+            "senior_citizen":"Decongestants"
+        }
+    },
+    {
+        "symptom": "malaise",
+        "age":{
+            "child":"Antibiotics",
+            "adult":"Melatonin",
+            "senior_citizen":"Melatonin"
+        }
+    },
+    {
+        "symptom": "mild fever",
+        "age":{
+            "child":"Motrin IB",
+            "adult":"Motrin IB",
+            "senior_citizen":"Motrin IB"
+        }
+    },
+    {
+        "symptom": "mood swings",
+        "age":{
+            "child":"Valproex",
+            "adult":"antipsychotics",
+            "senior_citizen":"Celexa"
+        }
+    },
+    {
+        "symptom": "movement stiffness",
+        "age":{
+            "child":"nonsteroidal anti-inflammatory drugs",
+            "adult":"nonsteroidal anti-inflammatory drugs",
+            "senior_citizen":"nonsteroidal anti-inflammatory drugs"
+        }
+    },
+    {
+        "symptom": "mucoid sputum",
+        "age":{
+            "child":"Guaifenesin",
+            "adult":"Expectorants",
+            "senior_citizen":"Expectorants"
+        }
+    },
+    {
+        "symptom": "muscle pain",
+        "age":{
+            "child":"Advil",
+            "adult":"Advil",
+            "senior_citizen":"Advil"
+        }
+    },
+    {
+        "symptom": "muscle wasting",
+        "age":{
+            "child":"Spinraza",
+            "adult":"Corticosteroids",
+            "senior_citizen":"VB-102"
+        }
+    },
+    {
+        "symptom": "muscle weakness",
+        "age":{
+            "child":"Corticosteroids",
+            "adult":"Immunosuppressive",
+            "senior_citizen":"AVGN7"
+        }
+    },
+    {
+        "symptom": "nausea",
+        "age":{
+            "child":"ondansetron",
+            "adult":"ondansetron",
+            "senior_citizen":"Granisetron"
+        }
+    },
+    {
+        "symptom": "neck pain",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"Motrin IB",
+            "senior_citizen":"Motrin IB"
+        }
+    },
+    {
+        "symptom": "nodal skin eruptions",
+        "age":{
+            "child":"Hydrocortisone cream",
+            "adult":"Hydrocortisone cream",
+            "senior_citizen":"Hydrocortisone cream"
+        }
+    },
+    {
+        "symptom": "obesity",
+        "age":{
+            "child":"Octreotide",
+            "adult":"Contrave",
+            "senior_citizen":"Semaglutide"
+        }
+    },
+    {
+        "symptom": "pain behind the eyes",
+        "age":{
+            "child":"Corticosteroids",
+            "adult":"acetaminophen",
+            "senior_citizen":"acetaminophen"
+        }
+    },
+    {
+        "symptom": "pain during bowel movements",
+        "age":{
+            "child":"",
+            "adult":"Anticholinergic",
+            "senior_citizen":"Anticholinergic"
+        }
+    },
+    {
+        "symptom": "pain in anal region",
+        "age":{
+            "child":"Laxatives",
+            "adult":"aspirin",
+            "senior_citizen":"Nitroglycerin"
+        }
+    },
+    {
+        "symptom": "painful walking",
+        "age":{
+            "child":"Advil",
+            "adult":"Advil",
+            "senior_citizen":"acetaminophen"
+        }
+    },
+    {
+        "symptom": "palpitations",
+        "age":{
+            "child":"Antiarrhythmic",
+            "adult":"amiodarone",
+            "senior_citizen":"antiarrhythmic"
+        }
+    },
+    {
+        "symptom": "passage of gases",
+        "age":{
+            "child":"",
+            "adult":"",
+            "senior_citizen":""
+        }
+    },
+    {
+        "symptom": "patches in throat",
+        "age":{
+            "child":"Gargling with warm salt water and Antibiotics",
+            "adult":"Gargling with warm salt water",
+            "senior_citizen":"Gargling with warm salt water"
+        }
+    },
+    {
+        "symptom": "phlegm",
+        "age":{
+            "child":"Expectorants",
+            "adult":"Guaifenesin",
+            "senior_citizen":"Expectorants"
+        }
+    },
+    {
+        "symptom": "polyuria",
+        "age":{
+            "child":"",
+            "adult":"Enablex",
+            "senior_citizen":"Ditropan XL"
+        }
+    },
+    {
+        "symptom": "prominent veins on calf",
+        "age":{
+            "child":"Tylenol",
+            "adult":"Tylenol",
+            "senior_citizen":"Tylenol"
+        }
+    },
+    {
+        "symptom": "puffy face and eyes",
+        "age":{
+            "child":"Antihistamines",
+            "adult":"Antihistamines",
+            "senior_citizen":"Antihistamines"
+        }
+    },
+    {
+        "symptom": "pus filled pimples",
+        "age":{
+            "child":"salicylic acid creams",
+            "adult":"Benzoyl peroxide",
+            "senior_citizen":"Benzoyl peroxide"
+        }
+    },
+    {
+        "symptom": "receiving blood transfusion",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"acetaminophen",
+            "senior_citizen":"acetaminophen"
+        }
+    },
+    {
+        "symptom": "receiving unsterile injections",
+        "age":{
+            "child":"",
+            "adult":"",
+            "senior_citizen":""
+        }
+    },
+    {
+        "symptom": "red sore around nose",
+        "age":{
+            "child":"Impetigo",
+            "adult":"Oral antibiotics",
+            "senior_citizen":"Oral antibiotics"
+        }
+    },
+    {
+        "symptom": "red spots over body",
+        "age":{
+            "child":"oral antihistamines",
+            "adult":"Antihistamines",
+            "senior_citizen":"Antihistamines"
+        }
+    },
+    {
+        "symptom": "redness of eyes",
+        "age":{
+            "child":"artificial tears",
+            "adult":"decongestants",
+            "senior_citizen":"decongestants"
+        }
+    },
+    {
+        "symptom": "restlessness",
+        "age":{
+            "child":"gabapentin",
+            "adult":"zopiclone and zolpidem",
+            "senior_citizen":"zopiclone and zolpidem"
+        }
+    },
+    {
+        "symptom": "runny nose",
+        "age":{
+            "child":"Antihistamines",
+            "adult":"chlorpheniramine",
+            "senior_citizen":"diphenhydramine"
+        }
+    },
+    {
+        "symptom": "rusty sputum",
+        "age":{
+            "child":"",
+            "adult":"",
+            "senior_citizen":""
+        }
+    },
+    {
+        "symptom": "scurring",
+        "age":{
+            "child":"",
+            "adult":"",
+            "senior_citizen":""
+        }
+    },
+    {
+        "symptom": "shivering",
+        "age":{
+            "child":"Antibiotics",
+            "adult":"Antibiotics",
+            "senior_citizen":"Antibiotics"
+        }
+    },
+    {
+        "symptom": "silver like dusting",
+        "age":{
+            "child":"hydroquinone",
+            "adult":"hydroquinone",
+            "senior_citizen":"hydroquinone"
+        }
+    },
+    {
+        "symptom": "sinus pressure",
+        "age":{
+            "child":"Acetaminophen",
+            "adult":"fluticasone",
+            "senior_citizen":"cromolyn"
+        }
+    },
+    {
+        "symptom": "skin peeling",
+        "age":{
+            "child":"Antifungals",
+            "adult":"Corticosteroids",
+            "senior_citizen":"Corticosteroids"
+        }
+    },
+    {
+        "symptom": "skin rash",
+        "age":{
+            "child":"hydrocortisone cream",
+            "adult":"Oral antihistamines",
+            "senior_citizen":"Oral antihistamines"
+        }
+    },
+    {
+        "symptom": "slurred speech",
+        "age":{
+            "child":"",
+            "adult":"",
+            "senior_citizen":""
+        }
+    },
+    {
+        "symptom": "small dents in nails",
+        "age":{
+            "child":"Trexall",
+            "adult":"Neoral",
+            "senior_citizen":"Neoral"
+        }
+    },
+    {
+        "symptom": "spinning movements",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "spotting urination",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "stomach bleeding",
+        "age":{
+            "child":"better to concern Doctor",
+            "adult":"better to concern Doctor",
+            "senior_citizen":"better to concern Doctor"
+        }
+    },
+    {
+        "symptom": "stomach pain",
+        "age":{
+            "child":"paracetamol",
+            "adult":"Sodium bicarbonate",
+            "senior_citizen":"Duramorph"
+        }
+    },
+    {
+        "symptom": "sunken eyes",
+        "age":{
+            "child":"Retinol",
+            "adult":"Retinol",
+            "senior_citizen":"Caffeine"
+        }
+    },
+    {
+        "symptom": "sweating",
+        "age":{
+            "child":"anticholinergics",
+            "adult":"Prescription creams",
+            "senior_citizen":"Antidepressants"
+        }
+    },
+    {
+        "symptom": "swelled lymph nodes",
+        "age":{
+            "child":"ibuprofen",
+            "adult":"naproxen",
+            "senior_citizen":"naproxen"
+        }
+    },
+    {
+        "symptom": "swelling joints",
+        "age":{
+            "child":"Corticosteroids",
+            "adult":"paracetamol",
+            "senior_citizen":"ibuprofen"
+        }
+    },
+    {
+        "symptom": "swelling of stomach",
+        "age":{
+            "child":"Simethicone",
+            "adult":"Simethicone",
+            "senior_citizen":"antispasmodics"
+        }
+    },
+    {
+        "symptom": "swollen blood vessels",
+        "age":{
+            "child":"Vasculitis",
+            "adult":"Corticosteroids",
+            "senior_citizen":"Corticosteroids"
+        }
+    },
+    {
+        "symptom": "swollen extremeties",
+        "age":{
+            "child":"Bumetanide",
+            "adult":"Diuretics",
+            "senior_citizen":"benzopyrones"
+        }
+    },
+    {
+        "symptom": "swollen legs",
+        "age":{
+            "child":"Acetaminophen",
+            "adult":"naproxen",
+            "senior_citizen":"Lasix"
+        }
+    },
+    {
+        "symptom": "throat irritation",
+        "age":{
+            "child":"Acetaminophen",
+            "adult":"Antihistamines",
+            "senior_citizen":"Antihistamines"
+        }
+    },
+    {
+        "symptom": "toxic look (typhos)",
+        "age":{
+            "child":"Azithromycin",
+            "adult":"Dosage",
+            "senior_citizen":"Dosage"
+        }
+    },
+    {
+        "symptom": "ulcers on tongue",
+        "age":{
+            "child":"Antiseptics",
+            "adult":"Anbesol",
+            "senior_citizen":"Anbesol"
+        }
+    },
+    {
+        "symptom": "unsteadiness",
+        "age":{
+            "child":"",
+            "adult":"anticholinergics",
+            "senior_citizen":"alprazolam"
+        }
+    },
+    {
+        "symptom": "visual disturbances",
+        "age":{
+            "child":"Amblyopia",
+            "adult":"pilocarpine hydrochloride",
+            "senior_citizen":"levobunolol"
+        }
+    },
+    {
+        "symptom": "vomiting",
+        "age":{
+            "child":"Pedialyte",
+            "adult":"cyclizine",
+            "senior_citizen":"prochlorperazine"
+        }
+    },
+    {
+        "symptom": "watering from eyes",
+        "age":{
+            "child":"antihistamine eye drops",
+            "adult":"antihistamine eye drops",
+            "senior_citizen":"antihistamine eye drops"
+        }
+    },
+    {
+        "symptom": "weakness in limbs",
+        "age":{
+            "child":"Congenital myopathies",
+            "adult":"Cholinesterase inhibitors",
+            "senior_citizen":"Cholinesterase inhibitors"
+        }
+    },
+    {
+        "symptom": "weakness of one body side",
+        "age":{
+            "child":"Hemiparesis",
+            "adult":"Pain relievers",
+            "senior_citizen":"hemiparesis"
+        }
+    },
+    {
+        "symptom": "weight gain",
+        "age":{
+            "child":"Cyproheptadine",
+            "adult":"Corticosteroids",
+            "senior_citizen":"Sulfonylureas"
+        }
+    },
+    {
+        "symptom": "weight loss",
+        "age":{
+            "child":"semaglutide",
+            "adult":"Orlistat",
+            "senior_citizen":"Qsymia"
+        }
+    },
+    {
+        "symptom": "yellow crust ooze",
+        "age":{
+            "child":"Antibiotic ointment",
+            "adult":"Impetigo",
+            "senior_citizen":"Impetigo"
+        }
+    },
+    {
+        "symptom": "yellow urine",
+        "age":{
+            "child":"Riboflavin",
+            "adult":"Phenazopyridine",
+            "senior_citizen":"Cobalamin"
+        }
+    },
+    {
+        "symptom": "yellowing of eyes",
+        "age":{
+            "child":"Avoid processed foods",
+            "adult":"Avoid processed foods",
+            "senior_citizen":"Avoid processed foods"
+        }
+    },
+    {
+        "symptom": "yellowish skin",
+        "age":{
+            "child":"Phototherapy",
+            "adult":"Cholestyramine",
+            "senior_citizen":"Antihistamines"
+        }
+    }
+]
